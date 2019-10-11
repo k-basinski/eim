@@ -10,7 +10,16 @@ Zakład Badań nad Jakością Życia
 
 Gdański Uniwersytet Medyczny
 
-## Podstawowe informacje
+
+## Wykłady
+
+- [01 wstęp](01_wstep.html)
+- [02 definicje i teorie historyczne](02_def_historia.html)
+- [03 teorie ewolucyjne](03_ewolucyjne.html)
+
+## Syllabus
+
+[Klik](syllabus.pdf)
 
 ## Literatura
 
@@ -23,9 +32,3 @@ Gdański Uniwersytet Medyczny
 
 - [Human Behavioral Biology - Robert Sapolsky (Stanford)](https://www.youtube.com/playlist?list=PLpXaCv0b7h12LpVunZ361VfCBQSwi_2e8)
 - [Human Emotion - June Gruber (Yale)](https://www.youtube.com/playlist?list=PLh9mgdi4rNewieO9Dsj-OhNBC9bF4FoRp)
-
-## Wykłady
-
-- [01 wstęp](01_wstep.html)
-- [02 definicje i teorie historyczne](02_def_historia.html)
-- [03 teorie współczesne](03_teorie.html)

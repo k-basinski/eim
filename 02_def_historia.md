@@ -147,7 +147,7 @@ Nastrój to stan afektywny o zazwyczaj niewielkiej intensywności, charakteryzuj
 
 ## Eksperyment Sch-S - wyniki
 
-- Eforyczność w warunku euforii (od najwyższej do najniższej): adr-misinformed, adr-ignorant, placebo, adr-informed. 
+- Euforyczność w warunku euforii (od najwyższej do najniższej): adr-misinformed, adr-ignorant, placebo, adr-informed. 
 - Gniew w warunku gniewu (najwyższy do najniższego): adr-ignorant, placebo, adr-informed.
 
 

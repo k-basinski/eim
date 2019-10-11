@@ -1,6 +1,6 @@
 ---
 title: "EIM03"
-subtitle: "Współczesne teorie emocji"
+subtitle: "Ewolucyjne teorie emocji"
 author: "Krzysztof Basiński"
 theme: White
 ---
@@ -13,7 +13,7 @@ theme: White
 - Teorie oceny (appraisal)
 - Psychologiczny konstrukcjonizm
 
-# Teoria ewolucji - powtórka
+## Teoria ewolucji - powtórka
 
 ## Ewolucja - podstawowe mechanizmy
 
@@ -37,7 +37,10 @@ theme: White
   + replikować się wielokrotnie w ciągu życia (*fecundity*)
   + prowadzić do długiego życia, które zwiększa możliwości replikacji (*longevity*)
   + mieć wysoką jakość - replikować się dokładnie, aby geny następnych pokoleń miały niewiele błędów (*fidelity*)
-- Teza o samolubnych genach jest dość kontrowersyjna - być może lepiej analizować nie pojedyncze geny a całe fenotypy - <http://pl.wikipedia.org/wiki/Samolubny_gen>
+
+## Samolubne geny (Dawkins)
+
+Uwaga! Teza o samolubnych genach jest dość kontrowersyjna - być może lepiej analizować nie pojedyncze geny a całe fenotypy - <http://pl.wikipedia.org/wiki/Samolubny_gen>
 
 ## Jak to się ma do gatunków?
 
@@ -74,7 +77,7 @@ theme: White
 
 ## Symulacja dryfu genetycznego
 
-<img src="img/09_drift.png" alt="Symulacja dryfu genetycznego">
+<img src="img/02_drift.png" alt="Symulacja dryfu genetycznego">
 
 ## Strategie ewolucyjne
 
@@ -90,15 +93,33 @@ theme: White
 
 ## Altruizm odwzajemniony
 
-<!-- Uzupełnij o opis tego i o dylemat więźnia -->
+- Organizm A zachowuje się przez jakiś czas nieadaptacyjnie (zmniejsza swoje *fitness*), jednocześnie zwiększając *fitness* organizmu B
+- A robi to, ponieważ "spodziewa się", że B zrobi podobnie w przyszłości
+- Jeśli B nie odwzajemnia przysługi, A również przestaje
+- Robert Trivers, lata 70te
 
-- Bakterie to roobią!
+## Dylemat więźnia
 
-## Selekcja wielopoziomowa (Wilson, 2007)
+*Dwóch podejrzanych zostało zatrzymanych przez policję. Policja, rozdziela więźniów i przedstawia każdemu z nich tę samą ofertę: jeśli będzie zeznawać przeciwko drugiemu, a drugi będzie milczeć, to zeznający wyjdzie na wolność, a milczący dostanie dziesięcioletni wyrok. Jeśli obaj będą milczeć, obaj odsiedzą 6 miesięcy za inne przewinienia. Jeśli obaj będą zeznawać, obaj dostaną pięcioletnie wyroki.*
 
-- Mechanizmy ewolucyjne działają na wielu poziomach jednocześnie: na poziomie genu, genotypu, jednostki, grupy społecznej
-- Jakaś cecha może być adaptacyjna na jednym poziomie, a nieadaptacyjna na innych!
-- Np. prospołeczność jest nieadaptacyjna na poziomie jednostki, ale na poziomie grupy społecznej już tak
+## Dylemat więźnia
+
+*Każdy z nich musi podjąć decyzję niezależnie i żaden nie dowie się, czy drugi milczy czy zeznaje, aż do momentu wydania wyroku. Co robią?*
+
+## Wet za wet (tit for tat)
+
+Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat więźnia:
+
+1. na początku współpracuj
+2. potem rób dokładnie to, co przeciwnik zrobił w poprzedniej turze
+
+
+## Altruizm odwzajemniony
+
+- Bakterie to robią!
+- Naczelne to robią
+- U ludzi - **reguła wzajemności**
+
 
 ## Środowisko adaptacji ewolucyjnej
 
@@ -116,6 +137,9 @@ theme: White
 1. Organizmy są produktami selekcji naturalnej i innych procesów ewolucyjnych
 2. Specyficzne cechy organizmów są więc również produktami ewolucji
 3. Ludzki układ nerwowy jest ważną fizyczną cechą naszego gatunku (mózg jest najbardziej skomplikowanym ludzkim organem)
+
+## Założenia psychologii ewolucyjnej
+
 4. Całość zachowania jest wynikiem pracy układu nerwowego
 5. Ludzkie zachowanie jest więc rezultatem ewolucji
 
@@ -133,3 +157,101 @@ theme: White
 - Mutacja (*mutation*)
 - Adaptacja (*adaptation*)
 - Fitness
+
+## Ewolucyjne teorie emocji
+
+- Darwin zauważył rolę przystosowawczą ekspresji mimicznych
+- Twierdził, że niektóre ekspresje mimiczne są zbliżone u różnych gatunków
+- Emocje jako "przydatne nawyki" (*servicable habits*)
+- Funkcja komunikacyjna
+
+## Servicable habits - przykłady
+
+- Obrzydzenie powoduje utrudnione przyjmowanie trującego jedzenia i wdychanie trujących substancji
+- Zdziwienie powoduje poszerzenie pola widzenia (uniesienie brwi)
+- Wstyd przygotowuje ciało na potencjalne ataki
+
+## Ewolucyjne teorie emocji
+
+- Emocje powstają w odpowiedzi na **problemy adaptacyjne**
+- Emocje są wyzwalane przez **bodźce sygnałowe**
+- Emocje skutkują **tendencjami do działania** (*action tendencies*)
+- **Tendencja**, ponieważ organizm przygotowuje się do działania (ale niekoniecznie musi zadziałać)
+
+## Emocje i problemy adaptacyjne (Plutchik)
+
+|Problem | Emocja | Tendencja do działania|
+|---|---|---|
+|Zagrożenie| Strach | Ucieczka |
+| Przeszkoda | Gniew | Destrukcja:P |
+| Potencjalny partner seksualny | Radość, miłość | Zaloty, zach. seksualne |
+
+## Emocje i problemy adaptacyjne (Plutchik)
+
+|Problem | Emocja | Tendencja do działania|
+|---|---|---|
+| Trująca substancja | Obrzydzenie | Wymioty, odpychanie |
+| Nagły, nowy obiekt | Zdziwienie | Orientacja |
+
+## Emocje podstawowe
+
+- Skoro emocje wykształciły się ewolucyjnie, powinny być uniwersalne
+- ...przynajmniej niektóre
+- Skąd wiemy, które?
+
+## Emocje podstawowe - warunki
+
+- Uniwersalna kulturowo ekspresja
+- Specyficzna fizjologia
+- Obecność u innych naczelnych
+- Wiążą się z dokonywaniem automatycznych ocen otoczenia
+
+---
+
+<img src="img/03_podstawowe_nolabs.png">
+
+---
+
+<img src="img/03_podstawowe.png">
+
+## Emocje podstawowe
+
+- Strach
+- Obrzydzenie
+- Gniew 
+- Zaskoczenie
+- Radość
+- Smutek
+- Zadowolenie (?)
+
+## Emocje a pobudzenie fizjologiczne
+
+- Czy faktycznie mamy specyficzne wzorce fizjologiczne?
+- Levenson, Ekman i Friesen (1990) kazali ludziom poruszać konkretnymi mięśniami twarzy (Directed Facial Action task)
+- Wywoływali w ten sposób ekspresje emocjonalne charakterystyczne dla emocji
+- Powodowało to specyficzne wzorce pobudzenia
+
+## Emocje podstawowe
+
+<img src="img/03_hr.png">
+
+*(Levenson, Ekman, Friesen, 1990)*
+
+## Emocje podstawowe
+
+<img src="img/03_gsr.png">
+
+*(Levenson, Ekman, Friesen, 1990)*
+
+## Programy afektywne (Tomkins)
+
+- Wszystkie komponenty emocji dzieją się jednocześnie, ponieważ są składnikami **programu afektywnego**
+- Programy afektywne to wrodzone, mózgowe wzorce reakcji emocjonalnych
+- Programy sterują pobudzeniem fizjologicznym, ekspresją mimiczną, być może treściami poznawczymi
+
+## Problemy z teoriami ewolucyjnymi
+
+- Nie wszystkie emocje mają bodźce sygnałowe
+- Nie wszyscy reagują tak samo na te same bodźce sygnałowe
+- Nie zawsze realizowane są wszystkie elementy programu afektywnego
+- Brak konkluzywnych badań nad koherencją komponentów programów afektywnych
