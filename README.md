@@ -28,6 +28,10 @@ Gdański Uniwersytet Medyczny
 - Niedenthal, P. i Ric, F.  (2017). Psychology of Emotion. New York: Routledge.
 - Maruszewski, T., Doliński, D., Łukaszewski, W., i Marszał-Wiśniewska, M. (2008). Emocje i motywacja. W: J. Strelau & D. Doliński (Red.), Psychologia akademicka. Tom 1 (str. 511–650). Gdańskie Wydawnictwo Psychologiczne.
 
+#### Artykuły
+
+- [Teorie oceny - Siemer, Mauss & Gross, 2007](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.3225&rep=rep1&type=pdf)
+
 #### Wykłady on-line
 
 - [Human Behavioral Biology - Robert Sapolsky (Stanford)](https://www.youtube.com/playlist?list=PLpXaCv0b7h12LpVunZ361VfCBQSwi_2e8)
