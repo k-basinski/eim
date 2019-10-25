@@ -17,6 +17,7 @@ Gdański Uniwersytet Medyczny
 - [02 definicje i teorie historyczne](02_def_historia.html)
 - [03 teorie ewolucyjne](03_ewolucyjne.html)
 - [04 teorie oceny, konstrukcjonizm](04_ocena_konstr.html)
+- [05 metody](05_metody.html)
 
 ## Syllabus
 
