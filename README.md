@@ -1,5 +1,6 @@
 # Psychologia emocji i motywacji
 
+
 ## Kontakt
 
 Krzysztof Basiński
@@ -7,6 +8,8 @@ Krzysztof Basiński
 krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
 
 Zakład Badań nad Jakością Życia
+
+Ul Tuwima 15, pok. 312
 
 Gdański Uniwersytet Medyczny
 
