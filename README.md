@@ -21,6 +21,7 @@ Gdański Uniwersytet Medyczny
 - [03 teorie ewolucyjne](03_ewolucyjne.html)
 - [04 teorie oceny, konstrukcjonizm](04_ocena_konstr.html)
 - [05 metody](05_metody.html)
+- [06 przetwarzanie predykcyjne](06_pp.html)
 
 ## Syllabus
 
@@ -41,3 +42,5 @@ Gdański Uniwersytet Medyczny
 
 - [Human Behavioral Biology - Robert Sapolsky (Stanford)](https://www.youtube.com/playlist?list=PLpXaCv0b7h12LpVunZ361VfCBQSwi_2e8)
 - [Human Emotion - June Gruber (Yale)](https://www.youtube.com/playlist?list=PLh9mgdi4rNewieO9Dsj-OhNBC9bF4FoRp)
+- [Anil Seth - Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
+- [Andy Clark - Happily Entangled: Emotions Cognition and the Predictive Mind](https://www.youtube.com/watch?v=OS3RM3F8YmE)
