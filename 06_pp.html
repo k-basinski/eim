@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Krzysztof Basiński">
+  <title>EIM06</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reset.css">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="reveal.js/css/theme/White.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">EIM06</h1>
+  <p class="subtitle">Predictive processing</p>
+  <p class="author">Krzysztof Basiński</p>
+</section>
+
+<section id="zagadka" class="slide level3">
+<h3>Zagadka</h3>
+<ul>
+<li class="fragment">Spotykasz studenta na kampusie, zaczynacie rozmawiać</li>
+<li class="fragment">Okazuje się, że nazywa się Tomek i jest bardzo nieśmiały</li>
+<li class="fragment">Co robi Tomek?</li>
+<li class="fragment">Studiuje prawo?</li>
+<li class="fragment">Robi dr z matematyki?</li>
+</ul>
+</section>
+<section id="zagadka-1" class="slide level3">
+<h3>Zagadka</h3>
+<ul>
+<li class="fragment">Ile jest <strong>w ogóle</strong> studentów prawa na kampusie?</li>
+<li class="fragment">Ile jest <strong>w ogóle</strong> ludzi robiących phd z matmy na kampusie?</li>
+</ul>
+</section>
+<section id="inferencja-bayesowska" class="slide level3">
+<h3>Inferencja Bayesowska</h3>
+<p><span class="math display">\[ P(A \mid B) = \frac{P(B \mid A) \, P(A)}{P(B)} \]</span></p>
+</section>
+<section id="pp" class="slide level3">
+<h3>PP</h3>
+<ul>
+<li class="fragment">Predictive processing (przetwarzanie predykcyjne)</li>
+<li class="fragment">Predictive coding (kodowanie predykcyjne)</li>
+<li class="fragment">Active inference (aktywne wnioskowanie)</li>
+</ul>
+</section>
+<section id="herman-von-helmholtz-1821---1894" class="slide level3">
+<h3>Herman von Helmholtz (1821 - 1894)</h3>
+<p><img src="img/06_helmholtz.jpg"></p>
+</section>
+<section id="karl-friston" class="slide level3">
+<h3>Karl Friston</h3>
+<p><img src="img/06_friston.jpg"></p>
+</section>
+<section id="pp---o-co-chodzi" class="slide level3">
+<h3>PP - o co chodzi?</h3>
+<p>Percepcja jest kombinacją:</p>
+<ul>
+<li class="fragment"><strong>Predykcji</strong> opartych na wiedzy</li>
+<li class="fragment">Danych sensorycznych potwierdzających (lub nie) te predykcje</li>
+</ul>
+</section>
+<section id="pp---o-co-chodzi-1" class="slide level3">
+<h3>PP - o co chodzi?</h3>
+<p>Percepcja jest kombinacją:</p>
+<ul>
+<li class="fragment">procesów <strong>zstępujących</strong> (top-down)</li>
+<li class="fragment">procesów <strong>wstępujących</strong> (bottom-up)</li>
+</ul>
+</section>
+<section id="percepcja-to-kontrolowana-halucynacja" class="slide level3">
+<h3>Percepcja to kontrolowana halucynacja</h3>
+<ul>
+<li class="fragment">Wykorzystujemy probabilistyczną wiedzę, żeby tworzyć <strong>generatywny model świata</strong></li>
+<li class="fragment">Model ten wykorzystujemy do <strong>konstruowania</strong> doświadczeń percepcyjnych</li>
+</ul>
+</section>
+<section id="mózg-jako-maszyna-do-tworzenia-predykcji" class="slide level3">
+<h3>Mózg jako maszyna do tworzenia predykcji</h3>
+<ul>
+<li class="fragment">Mózg (UN) to wielowarstwowe, wieloośrodkowe, hierarchiczne urządzenie, które non-stop zajmuje się <strong>przewidywaniem własnych stanów sensorycznych</strong> (eksterocepcji, interocepcji, propriocepcji)</li>
+<li class="fragment"><strong>Hierarchiczne</strong>, ponieważ <em>wyższe</em> struktury cały czas starają się przewidzieć stany <em>niższych</em> struktur</li>
+</ul>
+</section>
+<section id="błędy-predykcji-prediction-errors" class="slide level3">
+<h3>Błędy predykcji (prediction errors)</h3>
+<ul>
+<li class="fragment">Jeśli stany sensoryczne zgodne są z modelem/przewidywaniami: wszystko jest ok</li>
+<li class="fragment">Jeśli nie: powstają błędy predykcji, które uaktualniają model tak, by lepiej przewidywał stany</li>
+<li class="fragment">To jest <strong>uczenie się</strong></li>
+</ul>
+</section>
+<section id="precyzja" class="slide level3">
+<h3>Precyzja</h3>
+<ul>
+<li class="fragment"><em>Self-estimated sensory uncertainty - precision</em></li>
+<li class="fragment">Błędy predykcji mogą wynikać z różnych przyczyn</li>
+<li class="fragment">W nocy widzimy mniej niż w dzień</li>
+<li class="fragment">Mózg zdaje sobie sprawę z niepewności związanej z błędami predykcji</li>
+<li class="fragment">Im większa niepewność/mniejsza precyzja, tym błędy mają mniejszą szansę wpłynąć na model generatywny</li>
+</ul>
+</section>
+<section id="precyzja-a-uwaga" class="slide level3">
+<h3>Precyzja a uwaga</h3>
+<ul>
+<li class="fragment">W PP ten mechanizm utożsamiany jest z <strong>uwagą</strong></li>
+<li class="fragment">Jeśli kierujemy na coś uwagę, zwiększamy precyzję błędów predykcji</li>
+<li class="fragment">Zwiększając precyzję, zwiększamy szansę na zmianę modelu świata</li>
+</ul>
+</section>
+<section id="pp-to-nie-tylko-percepcja" class="slide level3">
+<h3>PP to nie tylko percepcja</h3>
+<ul>
+<li class="fragment">PP sugeruje, że tworzenie modeli jest naczelną zasadą organizującą systemy biologiczne!</li>
+<li class="fragment">W tym sensie aplikowane jest do wszystkich obszarów funkcjonowania umysłu</li>
+</ul>
+</section>
+<section id="pp-to-nie-tylko-teoria" class="slide level3">
+<h3>PP to nie tylko teoria!</h3>
+<ul>
+<li class="fragment">PP to zasada, wg. której skonstruowane są układy nerwowe!</li>
+<li class="fragment">Mózgi ssaków mają architekturę, która pozwala na PP (mają?)</li>
+</ul>
+</section>
+<section id="predykcje-w-życiu" class="slide level3">
+<h3>Predykcje w życiu</h3>
+<p><img src="img/06_serena.jpg"></p>
+<p>200km/h!</p>
+</section>
+<section id="proste-przykłady" class="slide level3">
+<h3>Proste przykłady</h3>
+<p><img src="img/06_flash_lag.gif"></p>
+</section>
+<section id="proste-przykłady-1" class="slide level3">
+<h3>Proste przykłady</h3>
+<p><a href="https://michaelbach.de/ot/mot-flashLag/index.html" class="uri">https://michaelbach.de/ot/mot-flashLag/index.html</a></p>
+</section>
+<section id="pp-a-emocje" class="slide level3">
+<h3>PP a emocje?</h3>
+</section>
+<section id="andy-clark" class="slide level3">
+<h3>Andy Clark</h3>
+<p><img src="img/06_clark.jpg"></p>
+</section>
+<section id="lisa-feldman-barrett" class="slide level3">
+<h3>Lisa Feldman Barrett</h3>
+<p><img src="img/06_barrett.jpg"></p>
+</section>
+<section id="pp-a-emocje-1" class="slide level3">
+<h3>PP a emocje?</h3>
+<ul>
+<li class="fragment">Zacznijmy od pomysłu J-L (współcześnie Prinz, Damasio, etc.)</li>
+<li class="fragment">Interocepcja jest jednym ze źródeł informacji, które wykorzystujemy do predykcji</li>
+<li class="fragment">Interocepcja ma <strong>wysoką precyzję</strong>, więc jest ważna dla modelu generatywnego</li>
+<li class="fragment">BTW, PP elegancko integruje dane z eksterocepcji</li>
+</ul>
+</section>
+<section id="przykład-lfb" class="slide level3">
+<h3>Przykład (LFB)</h3>
+<ul>
+<li class="fragment">Jesteś policjantem, idziesz ciemną ulicą w kiepskiej dzielnicy</li>
+<li class="fragment">Widzisz człowieka wyjmującego komórkę z kieszeni</li>
+<li class="fragment">PP tworzy model biorąc pod uwagę: bycie policjantem, ciemność, kiepska dzielnica, ktoś sięga do kieszeni…</li>
+<li class="fragment">W tej sytuacji może stworzyć się <strong>wyraźny percept</strong> broni (<em>shooter bias</em>)</li>
+</ul>
+</section>
+<section id="działanie-action" class="slide level3">
+<h3>Działanie (action)</h3>
+</section>
+<section id="klasyczny-pogląd-na-działanie-d.hume" class="slide level3">
+<h3>Klasyczny pogląd na działanie (D.Hume)</h3>
+<p>Aby działać, potrzebne są:</p>
+<ul>
+<li class="fragment">Przekonania na temat świata (poznanie)</li>
+<li class="fragment">Pragnienie, aby zmienić ten świat (emocje)</li>
+</ul>
+</section>
+<section id="pp-a-działanie" class="slide level3">
+<h3>PP a działanie</h3>
+<p>Gdy model się nie zgadza z danymi sensorycznymi, można:</p>
+<ul>
+<li class="fragment">Zmienić model, by pasował do świata</li>
+<li class="fragment">Zmienić świat, by pasował do modelu</li>
+</ul>
+</section>
+<section id="pp-a-poruszanie-się-motor-control" class="slide level3">
+<h3>PP a poruszanie się (motor control)</h3>
+<ul>
+<li class="fragment">Gdy chce się poruszyć, wytwarzam model świata, w którym już się poruszyłem</li>
+<li class="fragment">Model odbiega od rzeczywistości (błędy predykcji!)</li>
+<li class="fragment">Ruszam się, żeby dopasować model (zmniejszyć błąd)</li>
+<li class="fragment">(można tak programować roboty!)</li>
+</ul>
+</section>
+<section id="ale-czemu-w-ogóle-się-ruszać" class="slide level3">
+<h3>Ale czemu w ogóle się ruszać?</h3>
+<ul>
+<li class="fragment">PP zakłada hierarchiczność systemu</li>
+<li class="fragment">Pragnienia “długoterminowe” (motywacje?) są wynikami długoterminowych, wysokopoziomowych predykcji na temat własnego stanu w przyszłości</li>
+</ul>
+</section>
+<section id="przykład-a.clark" class="slide level3">
+<h3>Przykład (A.Clark)</h3>
+<ul>
+<li class="fragment"><em>Przwiduję, że</em> spotkamy się o 19:00 w kinie, więc…</li>
+<li class="fragment"><em>Przwiduję, że</em> wsiądę do autobusu o 18:30, więc…</li>
+<li class="fragment"><em>Przwiduję, że</em> poruszę moimi kończynami, żeby dojść na przystanek, itd.</li>
+</ul>
+</section>
+<section id="prymat-emocji-poznania" class="slide level3">
+<h3>Prymat emocji? Poznania?</h3>
+<ul>
+<li class="fragment">W PP emocje są skutkiem predykcji na temat przyszłego stanu, wykształconymi przez ekstero/interocepcję</li>
+<li class="fragment">Emocje = tendencja do działania (<em>action tendency</em>)</li>
+<li class="fragment">W tym sensie <strong>wszystko jest powiązane</strong> (co rozwiązuje wiele problemów!) a rozgraniczenie na emocje i poznanie traci sens</li>
+</ul>
+</section>
+<section id="od-pp-do-free-energy-principle" class="slide level3">
+<h3>Od PP do free energy principle</h3>
+<p><img src="img/06_friston.jpg"></p>
+</section>
+<section id="problemy-z-pp" class="slide level3">
+<h3>Problemy z PP</h3>
+<ul>
+<li class="fragment">Teoria wszystkiego?</li>
+<li class="fragment">Falsyfikowalność?</li>
+<li class="fragment">Czy PP to wszystko, czy jest coś jeszcze?</li>
+<li class="fragment">Czy PP tłumaczy celowość, moralność, inne ludzkie przywary</li>
+<li class="fragment">Czy free energy się zgadza?</li>
+</ul>
+</section>
+<section id="jeśli-kogoś-to-zainteresowało" class="slide level3">
+<h3>Jeśli kogoś to zainteresowało…</h3>
+<p><a href="https://www.youtube.com/watch?v=lyu7v7nWzfo">Anil Seth: Your brain hallucinates your conscious reality</a> <a href="https://www.youtube.com/watch?v=OS3RM3F8YmE">Andy Clark: Happily Entangled: Emotions Cognition and the Predictive Mind</a></p>
+</section>
+<section id="książki-o-pp" class="slide level3">
+<h3>Książki o PP</h3>
+</section>
+<section id="jakob-hohwy" class="slide level3">
+<h3>Jakob Hohwy</h3>
+<p><img src="img/06_hohwy.jpg"></p>
+<p>The Predictive Mind (2014), Oxford University Press</p>
+</section>
+<section class="slide level3">
+
+<p><img src="img/06_surfing.png"></p>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/math/math.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
