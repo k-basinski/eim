@@ -2,7 +2,7 @@
 title: "EIM03"
 subtitle: "Ewolucyjne teorie emocji"
 author: "Krzysztof Basiński"
-theme: White
+theme: white
 ---
 
 ## Teorie współczesne

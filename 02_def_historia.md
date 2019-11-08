@@ -2,7 +2,7 @@
 title: "EIM02"
 subtitle: "Definicje i historia"
 author: "Krzysztof Basiński"
-theme: White
+theme: white
 ---
 
 ## Zastanów się

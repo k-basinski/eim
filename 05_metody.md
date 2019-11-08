@@ -2,7 +2,7 @@
 title: "EIM05"
 subtitle: "Metody badania emocji"
 author: "Krzysztof Basiński"
-theme: White
+theme: white
 ---
 
 ## Eksperymentalna indukcja emocji

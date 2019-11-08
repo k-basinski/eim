@@ -2,7 +2,7 @@
 title: "EIM04"
 subtitle: "Teorie oceny, konstrukcjonizm psychologiczny"
 author: "Krzysztof Basiński"
-theme: White
+theme: white
 ---
 
 ## Teorie oceny (appraisal theories)

@@ -1,7 +1,7 @@
 ---
 title: "Psychologia emocji i motywacji"
 author: "Krzysztof Basiński"
-theme: White
+theme: white
 ---
 
 ### Podstawowe info
