@@ -4,7 +4,6 @@ author: "Krzysztof Basiński"
 theme: white
 ---
 
-### Podstawowe info
 
 ### Kontakt
 
@@ -21,14 +20,14 @@ theme: white
 - Dwa kolokwia na wykładach i egzamin końcowy
 - Z kolokwiów można zdobyć 25, z egzaminu 50 punktów
 - Odzywajcie się na wykładach! (dodatkowe punkty za ogólną bystrość)
-- Podejść do wykładu może tylko ten, kto zaliczył ćwiczenia
+- Podejść do egzaminu może tylko ten, kto zaliczył ćwiczenia
 
 ### Forma kolokwiów i egzaminu
 
 - Pytania zamknięte (ok. 80%)
 - Pytania otwarte (ok. 20%)
 
-## Poprawa kolokwiów
+### Poprawa kolokwiów
 
 - Jeśli masz łącznie x <= 30 punktów z obu kolokwiów, **możesz** poprawiać
 - Jeśli masz łącznie x <= 10 punktów, **musisz** poprawiać

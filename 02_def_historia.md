@@ -10,7 +10,7 @@ theme: white
 - Czym są emocje?
 - Po co są emocje? 
 - Jak powstają emocje?
-- 
+
 
 ## Próby zdefiniowania emocji
 
@@ -32,7 +32,7 @@ Program emocjonalny może więc blokować, zaburzać, modyfikować inne (poznawc
 
 ## Próby zdefiniowania emocji
 
-Emocja jest zwykle doświadczana jako szczególny rodzaj stanu psychicznego, któremu czesto towarzyszą (bądź następują bezpośrednio po nim) zmiany somatyczne, ekspresje mimiczne i reakcje behawioralne.
+Emocja jest zwykle doświadczana jako szczególny rodzaj stanu psychicznego, któremu często towarzyszą (bądź następują bezpośrednio po nim) zmiany somatyczne, ekspresje mimiczne i reakcje behawioralne.
 
 *(Nico Frijda, za Strelau & Doliński)*
 
