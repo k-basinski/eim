@@ -110,7 +110,7 @@ theme: white
 
 - Dążenie do czegoś wynika z pracy lewej PFC
 - Unikanie czegoś z prawej PFC
-- To jest b. podobne do hipotezy walencji, z wyjątkiem gniewu
+- To jest podobne do hipotezy walencji, z wyjątkiem gniewu
 - Gniew jest negatywną emocją dążenia - i wiąże się raczej z aktywacją lewej półkuli
 
 ### Problemy w badaniu mózgu
