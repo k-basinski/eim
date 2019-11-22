@@ -22,6 +22,7 @@ Gdański Uniwersytet Medyczny
 - [04 teorie oceny, konstrukcjonizm](04_ocena_konstr.html)
 - [05 metody](05_metody.html)
 - [06 przetwarzanie predykcyjne](06_pp.html)
+- [07 mózg a emocje](07_neuro.html)
 
 ## Syllabus
 
