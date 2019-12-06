@@ -1,6 +1,8 @@
 # Psychologia emocji i motywacji
 
+## Aktualności
 
+Uwaga! Z powodu mojej choroby wykład mikołajkowy (06.12) się nie odbędzie! Odrabianie umówimy na kolejnym wykładzie, 13.12.
 ## Kontakt
 
 Krzysztof Basiński
