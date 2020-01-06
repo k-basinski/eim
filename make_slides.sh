@@ -7,4 +7,6 @@ pandoc -t revealjs -s 04_ocena_konstr.md -o 04_ocena_konstr.html -i
 pandoc -t revealjs -s 05_metody.md -o 05_metody.html -i
 pandoc -t revealjs -s 06_pp.md -o 06_pp.html -i --mathjax
 pandoc -t revealjs -s 07_neuro.md -o 07_neuro.html -i
+pandoc -t revealjs -s 08_ekspresja.md -o 08_ekspresja.html -i
+pandoc -t revealjs -s 09_poznanie.md -o 09_poznanie.html -i
 

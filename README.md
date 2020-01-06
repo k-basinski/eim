@@ -23,6 +23,8 @@ Gdański Uniwersytet Medyczny
 - [05 metody](05_metody.html)
 - [06 przetwarzanie predykcyjne](06_pp.html)
 - [07 mózg a emocje](07_neuro.html)
+- [08 ekspresja](08_ekspresja.html)
+- [09 emocje a procesy poznawcze 1](09_poznanie.html)
 
 ## Syllabus
 
