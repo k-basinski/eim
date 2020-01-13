@@ -31,7 +31,7 @@ theme: white
 
 - Mięśnie twarzy otrzymują sygnały z mózgu poprzez neurony ruchowe wychodzące z pnia mózgu
 - Siódmy nerw czaszkowy (nerw twarzowy, _facial nerve_) - czoło, brwi, usta
-- Trzeci nerw czaszkowy (_occulomotor nerve_) - powieki, ruchy gałki ocznej, źrenicy
+- Trzeci nerw czaszkowy (nerw okoruchowy, _occulomotor nerve_) - powieki, ruchy gałki ocznej, źrenicy
 - Piąty nerw czaszkowy (nerw trójdzielny, _trigeminal nerve_) - żucie, ruchy szczęki, sygnały aferentne z mechanoreceptorów
 
 ### Unerwienie twarzy
@@ -165,7 +165,7 @@ theme: white
 
 - Emocje widać nie tylko na twarzy
 - Zwierzęta sygnalizują emocje posturą
-- 
+
 
 ### Film o point light display
 

@@ -9,4 +9,5 @@ pandoc -t revealjs -s 06_pp.md -o 06_pp.html -i --mathjax
 pandoc -t revealjs -s 07_neuro.md -o 07_neuro.html -i
 pandoc -t revealjs -s 08_ekspresja.md -o 08_ekspresja.html -i
 pandoc -t revealjs -s 09_poznanie.md -o 09_poznanie.html -i
-
+pandoc -t revealjs -s 10_poznanie2.md -o 10_poznanie2.html -i
+pandoc -t revealjs -s 11_strach.md -o 11_strach.html -i

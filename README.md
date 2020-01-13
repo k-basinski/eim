@@ -2,7 +2,9 @@
 
 ## Aktualności
 
-Uwaga! Z powodu mojej choroby wykład mikołajkowy (06.12) się nie odbędzie! Odrabianie umówimy na kolejnym wykładzie, 13.12.
+Uwaga! 14.01 w godz. 8:15 - 11:15 odrabiamy zaległy wykład w sali AGN105!
+
+
 ## Kontakt
 
 Krzysztof Basiński
@@ -27,6 +29,8 @@ Gdański Uniwersytet Medyczny
 - [07 mózg a emocje](07_neuro.html)
 - [08 ekspresja](08_ekspresja.html)
 - [09 emocje a procesy poznawcze 1](09_poznanie.html)
+- [10 emocje a procesy poznawcze 2](10_poznanie2.html)
+- [11 lęk i strach](11_strach.html)
 
 ## Syllabus
 
@@ -49,3 +53,4 @@ Gdański Uniwersytet Medyczny
 - [Human Emotion - June Gruber (Yale)](https://www.youtube.com/playlist?list=PLh9mgdi4rNewieO9Dsj-OhNBC9bF4FoRp)
 - [Anil Seth - Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
 - [Andy Clark - Happily Entangled: Emotions Cognition and the Predictive Mind](https://www.youtube.com/watch?v=OS3RM3F8YmE)
+- [The Anxious Brain: The Neuroscience of Phobias - Joseph LeDoux](https://www.youtube.com/watch?v=Ht6g0ky-8EY)

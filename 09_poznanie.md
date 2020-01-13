@@ -1,6 +1,6 @@
 ---
 title: "EIM09"
-subtitle: "Emocje a procesy poznawcze"
+subtitle: "Emocje a procesy poznawcze, cz. 1"
 author: "Krzysztof Basiński"
 theme: white
 ---
