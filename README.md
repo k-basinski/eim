@@ -31,6 +31,7 @@ Gdański Uniwersytet Medyczny
 - [09 emocje a procesy poznawcze 1](09_poznanie.html)
 - [10 emocje a procesy poznawcze 2](10_poznanie2.html)
 - [11 lęk i strach](11_strach.html)
+- [12 stres - R.Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM)
 
 ## Syllabus
 
