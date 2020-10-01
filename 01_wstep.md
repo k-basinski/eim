@@ -17,33 +17,37 @@ theme: white
 
 ### Reguły gry
 
-- Dwa kolokwia na wykładach i egzamin końcowy
-- Z kolokwiów można zdobyć 25, z egzaminu 50 punktów
+- Trzy kolokwia na wykładach i egzamin końcowy
+- Z kolokwiów można zdobyć 20, z egzaminu 40 punktów
 - Odzywajcie się na wykładach! (dodatkowe punkty za ogólną bystrość)
 - Podejść do egzaminu może tylko ten, kto zaliczył ćwiczenia
+- Jeśli masz łącznie < 36 pkt z kolokwiów, musisz je poprawiać
 
 ### Forma kolokwiów i egzaminu
 
 - Pytania zamknięte (ok. 80%)
 - Pytania otwarte (ok. 20%)
 
-### Poprawa kolokwiów
-
-- Jeśli masz łącznie x <= 30 punktów z obu kolokwiów, **możesz** poprawiać
-- Jeśli masz łącznie x <= 10 punktów, **musisz** poprawiać
-- Poprawa na ostatnim wykładzie
-
 ### Literatura
 
+### Jak powstają emocje
+
+<img src="img/01_barrett.png" width="60%">
+
+Lisa Feldman Barrett (2017). How Emotions Are Made: The Secret Life of the Brain. Pan Macmillan.
+
+Lisa Feldman Barrett (2020). Jak powstają emocje? Sekretne życie mózgu. Wydawnictwo CeDeWu.
+
 ### Niedenthal & Ric
 
-![Niedenthal & Ric](img/01_niedenthal_ric.png)
+<img src="img/01_niedenthal_ric.png" width="60%"/>
 
 ### Niedenthal & Ric
 
-<img src="img/01_niedenthal_ric.png" />
 
 Niedenthal, P. i Ric, F.  (2017). Psychology of Emotion. New York: Routledge.
+
+
 
 ### Strelau & Doliński
 
@@ -59,7 +63,8 @@ Maruszewski, T., Doliński, D., Łukaszewski, W., i Marszał-Wiśniewska, M. (20
 
 ### Lewis & Haviland-Jones
 
-Lewis M., Haviland-Jones J.M. Psychologia emocji, GWP, Gdańsk, 2005.Łosiak W. Psychologia emocji, Warszawa, 2007.
+Lewis M., Haviland-Jones J.M. Psychologia emocji, GWP, Gdańsk, 2005.
+
 
 ### Sapolsky
 
@@ -72,15 +77,17 @@ Sapolsky, R. M. (2004). Why Zebras Don’t Get Ulcers: The Acclaimed Guide to St
 
 ### Plan wykładów
 
-- Definicje emocji, teorie emocji
+- Definicje emocji
+- Historia badań nad emocjami
+- Teorie emocji
 - Indukcja i pomiar emocji
 - Emocje a biologia
 - Funkcje emocji
 - Ekspresja emocji
-- Regulacja emocjonalna
 
 ### Plan wykładów
 
+- Regulacja emocjonalna
 - Uniwersalia, różnice indywidualne i kulturowe w emocjach
 - Emocje a procesy poznawcze
 - Stres

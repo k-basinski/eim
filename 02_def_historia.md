@@ -38,15 +38,26 @@ Emocja jest zwykle doświadczana jako szczególny rodzaj stanu psychicznego, kt�
 
 ## Próby zdefiniowania emocji
 
-“Episodic, relatively short-term, biologically-based patterns of perception, experience, physiology, action, and communication that occur in response to specific physical and social challenges and opportunities”
+"Epizodyczne, relatywnie krótkotrwałe, zakorzenione w biologii wzorce percepcji, doświadczenia, fizjologii, działania i komunikacji, które powstają w odpowiedzi na specyficzne fizyczne i społeczne wyzwania i możliwości"
+
+(“Episodic, relatively short-term, biologically-based patterns of perception, experience, physiology, action, and communication that occur in response to specific physical and social challenges and opportunities”)
 
 *(Keltner & Gross, 1999)*
 
 ## Próby zdefiniowania emocji 
 
-“Emotions are a kind of radar and rapid response system, constructing and carrying meaning across the flow of experience. Emotions are the tools by which we appraise experience and prepare to act on situations”
+"Emocje to taki radar i system wczesnego reagowania, konstruujący i przenoszący znaczenie poprzez ciąg doświadczeń. Emocje to narzędzia, za pomocą których dokonujemy oceny doświadczeń i przygotowujemy się do działania w różnych sytuacjach"
 
-*(Cole, Martin, & Dennis, 2004, p. 319)*
+
+*(Cole, Martin, & Dennis, 2004, p. 319; tłum. KB)*
+
+
+## Próby zdefiniowania emocji 
+
+"Mózg ciągle konstruuje pojęcia i tworzy kategorie aby rozpoznawać czym są docierające do zmysłów dane, ustala przyczyny tych danych oraz plany działania, które się wobec nich wykonuje. Gdy wewnętrzny model stworzy pojęcie danej emocji, procesy kategoryzacji skutkują powstaniem instancji emocji."
+
+*(Feldman Barrett, 2017; tłum. KB)*
+
 
 ## Terminologia
 
@@ -70,7 +81,7 @@ Feelings are mental experiences of body states, which arise as the brain interpr
 
 ## Emocja vs. u/od/czucie
 
-- Na tym wykładzie nie będziemy mówić o uczuciach
+- Na tym wykładzie nie będziemy mówić o **uczuciach**
 - Emocja to dla mnie całość doświadczenia (fizjologia, stan psychiczny, motywacyjny, etc)
 - **Odczucie** (feeling) to percepcja zmian w fizjologii
 
@@ -89,6 +100,8 @@ Nastrój to stan afektywny o zazwyczaj niewielkiej intensywności, charakteryzuj
 - Emocje czasem "widać" (na twarzy, w zachowaniu)
 - To objawianie się nazywamy **ekspresją emocji**
 - Jest to tylko część większego doświadczenia emocjonalnego
+
+## Definicje zależą od teorii!
 
 ## Teorie emocji - historyczne
 

@@ -22,7 +22,7 @@ Gdański Uniwersytet Medyczny
 
 - [01 wstęp](01_wstep.html)
 - [02 definicje i teorie historyczne](02_def_historia.html)
-- [03 teorie ewolucyjne](03_ewolucyjne.html)
+<!-- - [03 teorie ewolucyjne](03_ewolucyjne.html)
 - [04 teorie oceny, konstrukcjonizm](04_ocena_konstr.html)
 - [05 metody](05_metody.html)
 - [06 przetwarzanie predykcyjne](06_pp.html)
@@ -31,7 +31,7 @@ Gdański Uniwersytet Medyczny
 - [09 emocje a procesy poznawcze 1](09_poznanie.html)
 - [10 emocje a procesy poznawcze 2](10_poznanie2.html)
 - [11 lęk i strach](11_strach.html)
-- [12 stres - R.Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM)
+- [12 stres - R.Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM) -->
 
 ## Syllabus
 
@@ -41,8 +41,16 @@ Gdański Uniwersytet Medyczny
 
 #### Książki
 
+- Lisa Feldman Barrett (2017). How Emotions Are Made: The Secret Life of the Brain. Pan Macmillan. ALBO Lisa Feldman Barrett (2020). Jak powstają emocje? Sekretne życie mózgu. Wydawnictwo CeDeWu.
 - Niedenthal, P. i Ric, F.  (2017). Psychology of Emotion. New York: Routledge.
 - Maruszewski, T., Doliński, D., Łukaszewski, W., i Marszał-Wiśniewska, M. (2008). Emocje i motywacja. W: J. Strelau & D. Doliński (Red.), Psychologia akademicka. Tom 1 (str. 511–650). Gdańskie Wydawnictwo Psychologiczne.
+
+#### Dodatkowo
+
+- Sapolsky, R. M. (2004/2020). Dlaczego zebry nie mają wrzodów żołądka? Psychofizjologia stresu. Wydawnictwo Naukowe PWN.
+- Lewis M., Haviland-Jones J.M. Psychologia emocji, GWP, Gdańsk, 2005.
+- Łosiak W. Psychologia emocji, Warszawa, 2007.
+
 
 #### Artykuły
 
