@@ -1,9 +1,130 @@
 ---
-title: "EIM05"
+title: "EIM02"
 subtitle: "Metody badania emocji"
 author: "Krzysztof Basiński"
 theme: white
 ---
+
+## Pomiar emocji
+
+## Pomiar emocji
+
+- Kwestionariusze
+- Ekspresja mimiczna
+- Obrazowanie CUN
+- Obwodowy układ nerwowy i miary fizjologiczne
+
+## Kwestionariusze
+
+- PANAS (Positive and Negative Affect Schedule)
+- Self-Assessment Manikin
+
+## PANAS
+
+- 10/20 słów opisujących emocje
+- "Do jakiego stopnia, generalnie, czujesz się..."
+- Likert 1-5
+- Skala pozytywnego afektu, skala negatywnego afektu
+- W polskiej adaptacji: *SUPIN - Skala uczuć pozytywnych i negatywnych* (P. Brzozowski)
+
+---
+
+<img src="img/05_panas.png">
+
+## SAM
+
+- Metoda niewerbalna
+- Badany wybiera dwa obrazki odzwierciedlające *core affect*
+
+## SAM
+<img src="img/05_sam.png">
+
+## Skale do Pomiaru Nastroju i Sześciu Emocji 
+
+- Wojciszke & Baryła
+- Skala Nastroju Ogólnego składa się z 10 twierdzeń sformułowanych w taki sposób, by wyrażały ogólny nastrój pozytywny lub negatywny, choć nie specyficzne emocje. 
+- Likert 1-5
+- 10 pozytywnych przymiotników, 10 negatywnych przymiotników
+
+## Skale do Pomiaru Nastroju i Sześciu Emocji 
+
+ - Kwestionariusz Emocji składa się z 24 przymiotników oznaczających nazwy dyskretnych emocji, po cztery na każdą z sześciu emocji głównych
+
+## Ekspresja mimiczna
+
+- Facial Action Coding System (FACS)
+- Systemy automatyczne
+- Sędziowie
+
+## FACS
+
+- Przeszkoleni eksperci kodują skurcze mięśni według ustalonego schematu
+- Bardzo pracochłonna metoda (100 godzin szkolenia, godzina kodowania na minutę zachowania)
+- Pracę nad automatyzacją trwają (Computer Expression Recognition Toolbox, CERT; FAST-FACS)
+
+## FACS
+
+<img src="img/05_facs.png">
+
+## Sędziowie
+
+- Założenie : ludzie potrafią trafnie rozpoznawać emocje innych ludzi
+- Standardowy paradygmat sędziów kompetentnych
+- Często używane w badaniach nad uniwersalnością kulturową
+
+## Obrazowanie CUN
+
+- fMRI
+- EEG, ERP
+- MEG
+
+---
+
+<img src="img/05_fmri.png">
+
+---
+
+<img src="img/05_eeg.png">
+
+--- 
+
+<img src="img/05_meg.png">
+
+## Obwodowy układ nerwowy
+
+- Aktywność elektrodermalna
+- Tętno, ciśnienie krwi
+- Szerokość źrenicy
+- Mruganie
+
+## Aktywność elektrodermalna
+
+- Inaczej: odpowiedź skórno-galwaniczna (GSR)
+- Pomiar przewodnictwa elektrycznego powierzchni skóry
+- Powiązana z reakcją współczulną (choć nie wprost)
+- Zdziwienie, pobudzenie
+
+---
+
+<img src="img/05_emeter.png">
+
+(Church of Scientology, Mark Super VII Quantum E-meter)
+
+## Tętno, ciśnienie krwi
+
+- Rzetelna rejestracja za pomocą EKG
+- Strach, gniew, koncentracja uwagi, stres
+
+## Szerokość źrenicy i mruganie
+
+- Pupilometria, Eye-tracking
+- Pobudzenie, aktywność współczulna, zmęczenie, stres
+- Locus ceruleus
+
+---
+
+<img src="img/05_pupil.png">
+
 
 ## Eksperymentalna indukcja emocji
 
@@ -130,122 +251,3 @@ Do rozważenia:
 - Czy nie jest zbyt "zamieszana"?
 - Czy metoda uruchamia procesy obecne w prawdziwym życiu?
 
-## Pomiar emocji
-
-## Pomiar emocji
-
-- Kwestionariusze
-- Ekspresja mimiczna
-- Obrazowanie CUN
-- Obwodowy układ nerwowy i miary fizjologiczne
-
-## Kwestionariusze
-
-- PANAS (Positive and Negative Affect Schedule)
-- Self-Assessment Manikin
-
-## PANAS
-
-- 10/20 słów opisujących emocje
-- "Do jakiego stopnia, generalnie, czujesz się..."
-- Likert 1-5
-- Skala pozytywnego afektu, skala negatywnego afektu
-- W polskiej adaptacji: *SUPIN - Skala uczuć pozytywnych i negatywnych* (P. Brzozowski)
-
----
-
-<img src="img/05_panas.png">
-
-## SAM
-
-- Metoda niewerbalna
-- Badany wybiera dwa obrazki odzwierciedlające *core affect*
-
-## SAM
-<img src="img/05_sam.png">
-
-## Skale do Pomiaru Nastroju i Sześciu Emocji 
-
-- Wojciszke & Baryła
-- Skala Nastroju Ogólnego składa się z 10 twierdzeń sformułowanych w taki sposób, by wyrażały ogólny nastrój pozytywny lub negatywny, choć nie specyficzne emocje. 
-- Likert 1-5
-- 10 pozytywnych przymiotników, 10 negatywnych przymiotników
-
-## Skale do Pomiaru Nastroju i Sześciu Emocji 
-
- - Kwestionariusz Emocji składa się z 24 przymiotników oznaczających nazwy dyskretnych emocji, po cztery na każdą z sześciu emocji głównych
-
-## Ekspresja mimiczna
-
-- Facial Action Coding System (FACS)
-- Systemy automatyczne
-- Sędziowie
-
-## FACS
-
-- Przeszkoleni eksperci kodują skurcze mięśni według ustalonego schematu
-- Bardzo pracochłonna metoda (100 godzin szkolenia, godzina kodowania na minutę zachowania)
-- Pracę nad automatyzacją trwają (Computer Expression Recognition Toolbox, CERT; FAST-FACS)
-
-## FACS
-
-<img src="img/05_facs.png">
-
-## Sędziowie
-
-- Założenie : ludzie potrafią trafnie rozpoznawać emocje innych ludzi
-- Standardowy paradygmat sędziów kompetentnych
-- Często używane w badaniach nad uniwersalnością kulturową
-
-## Obrazowanie CUN
-
-- fMRI
-- EEG, ERP
-- MEG
-
----
-
-<img src="img/05_fmri.png">
-
----
-
-<img src="img/05_eeg.png">
-
---- 
-
-<img src="img/05_meg.png">
-
-## Obwodowy układ nerwowy
-
-- Aktywność elektrodermalna
-- Tętno, ciśnienie krwi
-- Szerokość źrenicy
-- Mruganie
-
-## Aktywność elektrodermalna
-
-- Inaczej: odpowiedź skórno-galwaniczna (GSR)
-- Pomiar przewodnictwa elektrycznego powierzchni skóry
-- Powiązana z reakcją współczulną (choć nie wprost)
-- Zdziwienie, pobudzenie
-
----
-
-<img src="img/05_emeter.png">
-
-(Church of Scientology, Mark Super VII Quantum E-meter)
-
-## Tętno, ciśnienie krwi
-
-- Rzetelna rejestracja za pomocą EKG
-- Strach, gniew, koncentracja uwagi, stres
-
-## Szerokość źrenicy i mruganie
-
-- Pupilometria, Eye-tracking
-- Pobudzenie, aktywność współczulna, zmęczenie, stres
-- Locus ceruleus
-
----
-
-<img src="img/05_pupil.png">

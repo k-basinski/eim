@@ -21,7 +21,7 @@ Gdański Uniwersytet Medyczny
 ## Wykłady
 
 - [01 wstęp](01_wstep.html)
-- [02 definicje i teorie historyczne](02_def_historia.html)
+- [02 metody pomiaru emocji](02_metody.html)
 <!-- - [03 teorie ewolucyjne](03_ewolucyjne.html)
 - [04 teorie oceny, konstrukcjonizm](04_ocena_konstr.html)
 - [05 metody](05_metody.html)
