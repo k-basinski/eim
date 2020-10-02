@@ -1,8 +1,5 @@
 # Psychologia emocji i motywacji
 
-## Aktualności
-
-Uwaga! 14.01 w godz. 8:15 - 11:15 odrabiamy zaległy wykład w sali AGN105!
 
 
 ## Kontakt
@@ -13,6 +10,8 @@ krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
 
 Zakład Badań nad Jakością Życia
 
+Katedra Psychologii
+
 Ul Tuwima 15, pok. 312
 
 Gdański Uniwersytet Medyczny
@@ -22,7 +21,8 @@ Gdański Uniwersytet Medyczny
 
 - [01 wstęp](01_wstep.html)
 - [02 metody pomiaru emocji](02_metody.html)
-<!-- - [03 teorie ewolucyjne](03_ewolucyjne.html)
+<!--
+- [03 teorie ewolucyjne](03_ewolucyjne.html)
 - [04 teorie oceny, konstrukcjonizm](04_ocena_konstr.html)
 - [05 metody](05_metody.html)
 - [06 przetwarzanie predykcyjne](06_pp.html)
@@ -52,9 +52,7 @@ Gdański Uniwersytet Medyczny
 - Łosiak W. Psychologia emocji, Warszawa, 2007.
 
 
-#### Artykuły
-
-- [Teorie oceny - Siemer, Mauss & Gross, 2007](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.3225&rep=rep1&type=pdf)
+## Polecam serdecznie
 
 #### Wykłady on-line
 
@@ -63,3 +61,7 @@ Gdański Uniwersytet Medyczny
 - [Anil Seth - Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
 - [Andy Clark - Happily Entangled: Emotions Cognition and the Predictive Mind](https://www.youtube.com/watch?v=OS3RM3F8YmE)
 - [The Anxious Brain: The Neuroscience of Phobias - Joseph LeDoux](https://www.youtube.com/watch?v=Ht6g0ky-8EY)
+
+#### Artykuły
+
+- [Teorie oceny - Siemer, Mauss & Gross, 2007](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.3225&rep=rep1&type=pdf)
