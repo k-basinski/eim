@@ -199,11 +199,21 @@ Przykład badania z lat 50-tych (nie róbcie tego w domu! Ax et al. 1953):
 ## Zaplanowane interakcje społeczne
 
 - Można zrobić pod czujnym nadzorem komisji bioetycznych
-- Np. procedura Stemmlera (2001), opisana na wykładzie 04
+- Np. procedura Stemmlera (1997/2001)
+
+## Indukcja gniewu
+
+- Pomiar elektrofizjologiczny (gsr, bp, emg)
+- Badani odliczają w dół od 18652 co 7 przez 1 minutę
+- Eksperymentator na nagraniu wściekły, że badany się rusza, robi artefakty, za cicho liczy
+- Komentarze coraz bardziej krytyczne i wrogie
+- Po trzech próbach badany słyszał, że to co zrobił jest bezużyteczne i będzie musiał powrócić do zadania później
+
 
 ## Zaplanowane interakcje społeczne
 
-- Indukcja poczucia winy: aparat Brocka i Beckera (1966) psuł się w wyniku działania osoby badanej. Na dodatek eksperymentator mówił: *"co się stało? Teraz już nigdy nie zrobię magisterki... Co zrobiłeś? Cóż, chyba skończymy eksperyment, aparat się popsuł..."*
+- Indukcja poczucia winy: aparat Brocka i Beckera (1966) psuł się w wyniku działania osoby badanej. 
+- Na dodatek eksperymentator mówił: *"co się stało? Teraz już nigdy nie zrobię magisterki... Co zrobiłeś? Cóż, chyba skończymy eksperyment, aparat się popsuł..."*
 
 ## Zaplanowane interakcje społeczne
 
@@ -232,6 +242,7 @@ Do rozważenia:
 - Wymogi sytuacji eksperymentalnej
 - Standaryzacja
 - Poziom skomplikowania i trafność ekologiczna
+- Wszystko ma swoje wady i zalety
 
 ## Wymogi sytuacji eksperymentalnej
 

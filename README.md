@@ -21,7 +21,9 @@ Gdański Uniwersytet Medyczny
 
 - [01 wstęp](01_wstep.html)
 - [02 metody pomiaru emocji](02_metody.html)
+
 <!--
+
 - [03 teorie ewolucyjne](03_ewolucyjne.html)
 - [04 teorie oceny, konstrukcjonizm](04_ocena_konstr.html)
 - [05 metody](05_metody.html)
@@ -31,7 +33,9 @@ Gdański Uniwersytet Medyczny
 - [09 emocje a procesy poznawcze 1](09_poznanie.html)
 - [10 emocje a procesy poznawcze 2](10_poznanie2.html)
 - [11 lęk i strach](11_strach.html)
-- [12 stres - R.Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM) -->
+- [12 stres - R.Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM) 
+
+-->
 
 ## Syllabus
 
