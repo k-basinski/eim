@@ -1,5 +1,5 @@
 ---
-title: "EIM02"
+title: "EIM 02"
 subtitle: "Metody badania emocji"
 author: "Krzysztof Basiński"
 theme: white

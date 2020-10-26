@@ -1,5 +1,5 @@
 ---
-title: "EIM03"
+title: "EIM 03"
 subtitle: "Historia badań nad emocjami"
 author: "Krzysztof Basiński"
 theme: white

@@ -21,7 +21,7 @@ Gdański Uniwersytet Medyczny
 
 - [01 wstęp](01_wstep.html)
 - [02 metody pomiaru emocji](02_metody.html)
-- [03 teorie historyczne](04_ewolucja.html)
+- [03 teorie historyczne](03_historia.html)
 - [04 ewolucja](04_ewolucja.html)
 
 <!--

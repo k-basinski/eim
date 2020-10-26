@@ -1,5 +1,5 @@
 ---
-title: "EIM03"
+title: "EIM 04"
 subtitle: "Ewolucyjne teorie emocji"
 author: "Krzysztof Basiński"
 theme: white
