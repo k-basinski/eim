@@ -4,6 +4,8 @@ author: "Krzysztof Basiński"
 theme: white
 ---
 
+### Informacje organizacyjne
+
 
 ### Kontakt
 

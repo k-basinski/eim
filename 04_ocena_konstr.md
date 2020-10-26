@@ -7,11 +7,13 @@ theme: white
 
 ## Teorie oceny (appraisal theories)
 
+
 ## Kłopoty z teoriami ewolucyjnymi
 
 - Bardzo niewiele bodźców **zawsze** powoduje emocje u **wszystkich** ludzi - bodźce sygnałowe
 - To samo wydarzenie może spowodować szeroki wachlarz emocji u różnych ludzi
 - Teorie oceny mają wyjaśnić nie **uniwersalność** a różnorodność ludzkiego doświadczenia emocjonalnego
+
 
 ## Teorie oceny
 
@@ -19,13 +21,17 @@ theme: white
 - *Appraisal is the mental process that allows you to detect objects and events in your environment and evaluate their significance for your immediate well-being* (Niedenthal & Ric)
 - Jeśli wiesz jak człowiek oceni daną sytuację, możesz poznać jego emocje
 
+
 ## Dowody empiryczne 
+
 - Scherer & Ceschi (1997) robili wywiady z ludźmi, którzy zgubili bagaż na lotnisku
 - Im bardziej ktoś odbierał tą sytuację jako przeszkadzającą w osiągnięciu celów, tym bardziej odczuwał gniew/zaniepokojenie
+
 
 ## Siemer, Mauss & Gross, 2007
 
 <img src="img/04_siemer.png">
+
 
 ## Siemer, Mauss & Gross, 2007
 
@@ -35,11 +41,13 @@ Badani byli poddawani procedurze indukcji negatywnych emocji (Stemmler, 1997):
 - Mieli odliczać w dół od 18652 co 7 przez 1 minutę
 - Trzy próby
 
+
 ## Siemer, Mauss & Gross, 2007
 
 - Eksperymentator wściekły, że badany się rusza, robi artefakty, za cicho liczy
 - Wszystko nagrane audio, komentarze coraz bardziej krytyczne i wrogie
 - Po trzech próbach badany słyszał, że to co zrobił jest bezużyteczne i będzie musiał powrócić do zadania później
+
 
 ## Kategorie oceny
 
@@ -122,6 +130,21 @@ Badani byli poddawani procedurze indukcji negatywnych emocji (Stemmler, 1997):
 ---
 
 <img src="img/04_core_affect.png">
+
+## Cechy afektu
+
+- Powstaje w odpowiedzi na sygnały interoceptywne
+- Związany z homeostazą/allostazą
+- Jest zawsze dostępny
+- Ludzie mają preferencje odnośnie pobudzenia (z wiekiem bardziej w stronę niskiego pobudzenia)
+
+## Realizm afektywny
+
+- Ludzie mówią, że są szczęśliwsi w słoneczny dzień (ale tylko jeśli nikt ich wcześniej nie spyta o pogodę)
+- Photographs of kittens are deemed pleasant. Photographs of rotting human corpses are deemed unpleasant. But these images do not have affective properties inside them. The phrase “an unpleasant image” is really shorthand for “an image that impacts my body budget, producing sensations that I experience as unpleasant.” In these moments of affective realism, we experience affect as a property of an object or event in the outside world, rather than as our own experience. “I feel bad, therefore you must have done something bad. You are a bad person.”
+-The thing is, a bad feeling doesn’t always mean something is wrong. It just means you’re taxing your body budget. When people exercise to the point of labored breathing, for example, they feel tired and crappy well before they run out of energy.
+- some of the shooters actually perceive a weapon when none is present due to affective realism in a high-pressure and dangerous context.*
+
 
 ## Konstruktywizm
 

@@ -127,10 +127,12 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 - Takie środowisko, dla którego wykształciły się adaptacje na drodze ewolucji
 - Jeżeli środowisko szybko się zmienia, ewolucja nie nadąża
 
+
 ## Jakie jest EEA ludzi?
 
 - Zbieracko-łowieckie bandy, złożone z ok. 150 osobników, w których ludzie byli dość mocno spokrewnieni ze sobą
 - *"Our modern skulls house a Stone Age mind"* - Cosmides & Tooby, 1997
+
 
 ## Założenia psychologii ewolucyjnej
 
@@ -138,18 +140,22 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 2. Specyficzne cechy organizmów są więc również produktami ewolucji
 3. Ludzki układ nerwowy jest ważną fizyczną cechą naszego gatunku (mózg jest najbardziej skomplikowanym ludzkim organem)
 
+
 ## Założenia psychologii ewolucyjnej
 
 4. Całość zachowania jest wynikiem pracy układu nerwowego
 5. Ludzkie zachowanie jest więc rezultatem ewolucji
 
+
 ## Zachowanie z perspektywy ewolucji
 
 - Zachowanie jest adaptacją, która u organizmów z układem nerwowym pozwala reagować na bodźce ze środowiska
-- Np. trawa nie ma układu nerwowego, więc nie może uciec przed krową...
+- Np. trawa nie ma układu nerwowego, więc nie może uciec przed krową... (choć to nie jest takie oczywiste!)
 - *"Evolutionary psychology is the radical notion that human behavior is part of the natural world"*
 
+
 ## Pojęcia
+
 - Selekcja naturalna (*natural selection*)
 - Selekcja seksualna (*sexual selection*)
 - Sukces reprodukcyjny (**RS** - *reproductive success*)
@@ -158,6 +164,7 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 - Adaptacja (*adaptation*)
 - Fitness
 
+
 ## Ewolucyjne teorie emocji
 
 - Darwin zauważył rolę przystosowawczą ekspresji mimicznych
@@ -165,11 +172,13 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 - Emocje jako "przydatne nawyki" (*servicable habits*)
 - Funkcja komunikacyjna
 
+
 ## Servicable habits - przykłady
 
 - Obrzydzenie powoduje utrudnione przyjmowanie trującego jedzenia i wdychanie trujących substancji
 - Zdziwienie powoduje poszerzenie pola widzenia (uniesienie brwi)
 - Wstyd przygotowuje ciało na potencjalne ataki
+
 
 ## Ewolucyjne teorie emocji
 
@@ -177,6 +186,7 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 - Emocje są wyzwalane przez **bodźce sygnałowe**
 - Emocje skutkują **tendencjami do działania** (*action tendencies*)
 - **Tendencja**, ponieważ organizm przygotowuje się do działania (ale niekoniecznie musi zadziałać)
+
 
 ## Emocje i problemy adaptacyjne (Plutchik)
 
@@ -186,6 +196,7 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 | Przeszkoda | Gniew | Destrukcja:P |
 | Potencjalny partner seksualny | Radość, miłość | Zaloty, zach. seksualne |
 
+
 ## Emocje i problemy adaptacyjne (Plutchik)
 
 |Problem | Emocja | Tendencja do działania|
@@ -193,11 +204,13 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 | Trująca substancja | Obrzydzenie | Wymioty, odpychanie |
 | Nagły, nowy obiekt | Zdziwienie | Orientacja |
 
+
 ## Emocje podstawowe
 
 - Skoro emocje wykształciły się ewolucyjnie, powinny być uniwersalne
 - ...przynajmniej niektóre
 - Skąd wiemy, które?
+
 
 ## Emocje podstawowe - warunki
 
@@ -214,6 +227,7 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 
 <img src="img/03_podstawowe.png">
 
+
 ## Emocje podstawowe
 
 - Strach
@@ -224,6 +238,7 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 - Smutek
 - Zadowolenie (?)
 
+
 ## Emocje a pobudzenie fizjologiczne
 
 - Czy faktycznie mamy specyficzne wzorce fizjologiczne?
@@ -231,11 +246,13 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 - Wywoływali w ten sposób ekspresje emocjonalne charakterystyczne dla emocji
 - Powodowało to specyficzne wzorce pobudzenia
 
+
 ## Emocje podstawowe
 
 <img src="img/03_hr.png">
 
 *(Levenson, Ekman, Friesen, 1990)*
+
 
 ## Emocje podstawowe
 
@@ -243,11 +260,13 @@ Wet za wet to następująca strategia gry w iterowany (powtarzany) dylemat wię�
 
 *(Levenson, Ekman, Friesen, 1990)*
 
+
 ## Programy afektywne (Tomkins)
 
 - Wszystkie komponenty emocji dzieją się jednocześnie, ponieważ są składnikami **programu afektywnego**
 - Programy afektywne to wrodzone, mózgowe wzorce reakcji emocjonalnych
 - Programy sterują pobudzeniem fizjologicznym, ekspresją mimiczną, być może treściami poznawczymi
+
 
 ## Problemy z teoriami ewolucyjnymi
 

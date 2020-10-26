@@ -21,12 +21,13 @@ Gdański Uniwersytet Medyczny
 
 - [01 wstęp](01_wstep.html)
 - [02 metody pomiaru emocji](02_metody.html)
+- [03 teorie historyczne](04_ewolucja.html)
+- [04 ewolucja](04_ewolucja.html)
 
 <!--
 
-- [03 teorie ewolucyjne](03_ewolucyjne.html)
 - [04 teorie oceny, konstrukcjonizm](04_ocena_konstr.html)
-- [05 metody](05_metody.html)
+- [05 ](05_ocena_konstr.html)
 - [06 przetwarzanie predykcyjne](06_pp.html)
 - [07 mózg a emocje](07_neuro.html)
 - [08 ekspresja](08_ekspresja.html)
@@ -69,3 +70,7 @@ Gdański Uniwersytet Medyczny
 #### Artykuły
 
 - [Teorie oceny - Siemer, Mauss & Gross, 2007](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.3225&rep=rep1&type=pdf)
+
+#### Ciekawostki
+
+- [Dead Salmon Study, Bennett et al. 2009](http://prefrontal.org/files/posters/Bennett-Salmon-2009.jpg)
