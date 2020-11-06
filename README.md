@@ -61,6 +61,7 @@ Gdański Uniwersytet Medyczny
 
 - [Human Behavioral Biology - Robert Sapolsky (Stanford)](https://www.youtube.com/playlist?list=PLpXaCv0b7h12LpVunZ361VfCBQSwi_2e8)
 - [Human Emotion - June Gruber (Yale)](https://www.youtube.com/playlist?list=PLh9mgdi4rNewieO9Dsj-OhNBC9bF4FoRp)
+- [Peter Sterling - What is health?](https://www.youtube.com/watch?v=cGZ53ecu8Jk&t=2182s)
 - [Anil Seth - Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
 - [Andy Clark - Happily Entangled: Emotions Cognition and the Predictive Mind](https://www.youtube.com/watch?v=OS3RM3F8YmE)
 - [The Anxious Brain: The Neuroscience of Phobias - Joseph LeDoux](https://www.youtube.com/watch?v=Ht6g0ky-8EY)
