@@ -23,12 +23,10 @@ Gdański Uniwersytet Medyczny
 - [02 metody pomiaru emocji](02_metody.html)
 - [03 teorie historyczne](03_historia.html)
 - [04 ewolucja](04_ewolucja.html)
+- [05 teorie oceny](05_ocena.html)
+- [06 przetwarzanie predykcyjne](06_pp.html)
 
 <!--
-
-- [04 teorie oceny, konstrukcjonizm](04_ocena_konstr.html)
-- [05 ](05_ocena_konstr.html)
-- [06 przetwarzanie predykcyjne](06_pp.html)
 - [07 mózg a emocje](07_neuro.html)
 - [08 ekspresja](08_ekspresja.html)
 - [09 emocje a procesy poznawcze 1](09_poznanie.html)
