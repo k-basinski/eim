@@ -38,6 +38,7 @@
 <li class="fragment">Allostaza i procesy fizjologiczne</li>
 <li class="fragment">Inferencja Bayesowska</li>
 <li class="fragment">Przetwarzanie predykcyjne</li>
+<li class="fragment">Core affect i interocepcja</li>
 <li class="fragment">Pojęcia, kategorie i ich tworzenie</li>
 </ul>
 </section>
@@ -214,8 +215,33 @@
 <section id="bayesian-brain-hypothesis" class="slide level3">
 <h3>Bayesian Brain Hypothesis</h3>
 <ul>
-<li class="fragment"></li>
+<li class="fragment">W wielu zadaniach ludzki system poznawczy zachowuje się bayesowsko</li>
+<li class="fragment">Być może inferencja bayesowska jest implementowana w układzie nerwowym</li>
 </ul>
+</section>
+<section class="slide level3">
+
+<p><img src="img/arcimboldo.png" width="40%"></p>
+</section>
+<section class="slide level3">
+
+<p><img src="img/arcimboldo2.png" width="40%"></p>
+</section>
+<section class="slide level3">
+
+<p><img src="img/arcimboldo.png" width="40%"></p>
+</section>
+<section class="slide level3">
+
+<p><img src="img/blobs.png"></p>
+</section>
+<section class="slide level3">
+
+<p><img src="img/blobs2.png"></p>
+</section>
+<section class="slide level3">
+
+<p><img src="img/blobs.png"></p>
 </section>
 <section id="pp" class="slide level3">
 <h3>PP</h3>
@@ -229,6 +255,10 @@
 <h3>Herman von Helmholtz (1821 - 1894)</h3>
 <p><img src="img/06_helmholtz.jpg"></p>
 </section>
+<section id="rao-ballard-1999-nat-neurosci" class="slide level3">
+<h3>Rao &amp; Ballard, 1999, Nat Neurosci</h3>
+<p><img src="img/rao_ballard.png"></p>
+</section>
 <section id="karl-friston" class="slide level3">
 <h3>Karl Friston</h3>
 <p><img src="img/06_friston.jpg"></p>
@@ -237,16 +267,16 @@
 <h3>PP - o co chodzi?</h3>
 <p>Percepcja jest kombinacją:</p>
 <ul>
-<li class="fragment"><strong>Predykcji</strong> opartych na wiedzy</li>
-<li class="fragment">Danych sensorycznych potwierdzających (lub nie) te predykcje</li>
+<li class="fragment"><strong>Predykcji</strong> opartych na wiedzy (<em>prior</em>)</li>
+<li class="fragment">Danych sensorycznych potwierdzających (lub nie) te predykcje (<em>likelihood</em>)</li>
 </ul>
 </section>
 <section id="pp---o-co-chodzi-1" class="slide level3">
 <h3>PP - o co chodzi?</h3>
 <p>Percepcja jest kombinacją:</p>
 <ul>
-<li class="fragment">procesów <strong>zstępujących</strong> (top-down)</li>
 <li class="fragment">procesów <strong>wstępujących</strong> (bottom-up)</li>
+<li class="fragment">procesów <strong>zstępujących</strong> (top-down)</li>
 </ul>
 </section>
 <section id="percepcja-to-kontrolowana-halucynacja" class="slide level3">
@@ -260,8 +290,20 @@
 <h3>Mózg jako maszyna do tworzenia predykcji</h3>
 <ul>
 <li class="fragment">Mózg (UN) to wielowarstwowe, wieloośrodkowe, hierarchiczne urządzenie, które non-stop zajmuje się <strong>przewidywaniem własnych stanów sensorycznych</strong> (eksterocepcji, interocepcji, propriocepcji)</li>
-<li class="fragment"><strong>Hierarchiczne</strong>, ponieważ <em>wyższe</em> struktury cały czas starają się przewidzieć stany <em>niższych</em> struktur</li>
+<li class="fragment">To co widzimy w danym momencie to <strong>najbardziej prawdopodobna predykcja na temat najbliższej przyszłości</strong></li>
 </ul>
+</section>
+<section id="hierarchiczność-w-pp" class="slide level3">
+<h3>Hierarchiczność w PP</h3>
+<ul>
+<li class="fragment"><em>Wyższe</em> struktury cały czas starają się przewidzieć stany <em>niższych</em> struktur</li>
+<li class="fragment">Najniższe poziomy hierarchii: neurony narządach sensorycznych, drogi sensoryczne</li>
+<li class="fragment">Wyższe poziomy: percepcja obiektów, kategorie pojęciowe, stany motywacyjne, etc</li>
+</ul>
+</section>
+<section id="hierarchiczność-lupyan-clark-2015" class="slide level3">
+<h3>Hierarchiczność (Lupyan &amp; Clark, 2015)</h3>
+<p><img src="img/basic_pp.png"></p>
 </section>
 <section id="błędy-predykcji-prediction-errors" class="slide level3">
 <h3>Błędy predykcji (prediction errors)</h3>
@@ -279,6 +321,15 @@
 <li class="fragment">W nocy widzimy mniej niż w dzień</li>
 <li class="fragment">Mózg zdaje sobie sprawę z niepewności związanej z błędami predykcji</li>
 <li class="fragment">Im większa niepewność/mniejsza precyzja, tym błędy mają mniejszą szansę wpłynąć na model generatywny</li>
+</ul>
+</section>
+<section id="przykład-lfb" class="slide level3">
+<h3>Przykład (LFB)</h3>
+<ul>
+<li class="fragment">Jesteś policjantem, idziesz ciemną ulicą w kiepskiej dzielnicy</li>
+<li class="fragment">Widzisz człowieka wyjmującego komórkę z kieszeni</li>
+<li class="fragment">PP tworzy model biorąc pod uwagę: bycie policjantem, ciemność, kiepska dzielnica, ktoś sięga do kieszeni…</li>
+<li class="fragment">W tej sytuacji może stworzyć się <strong>wyraźny percept</strong> broni (<em>shooter bias</em>)</li>
 </ul>
 </section>
 <section id="precyzja-a-uwaga" class="slide level3">
@@ -316,35 +367,6 @@
 <h3>Proste przykłady</h3>
 <p><a href="https://michaelbach.de/ot/mot-flashLag/index.html" class="uri">https://michaelbach.de/ot/mot-flashLag/index.html</a></p>
 </section>
-<section id="pp-a-emocje" class="slide level3">
-<h3>PP a emocje?</h3>
-</section>
-<section id="andy-clark" class="slide level3">
-<h3>Andy Clark</h3>
-<p><img src="img/06_clark.jpg"></p>
-</section>
-<section id="lisa-feldman-barrett" class="slide level3">
-<h3>Lisa Feldman Barrett</h3>
-<p><img src="img/06_barrett.jpg"></p>
-</section>
-<section id="pp-a-emocje-1" class="slide level3">
-<h3>PP a emocje?</h3>
-<ul>
-<li class="fragment">Zacznijmy od pomysłu J-L (współcześnie Prinz, Damasio, etc.)</li>
-<li class="fragment">Interocepcja jest jednym ze źródeł informacji, które wykorzystujemy do predykcji</li>
-<li class="fragment">Interocepcja ma <strong>wysoką precyzję</strong>, więc jest ważna dla modelu generatywnego</li>
-<li class="fragment">BTW, PP elegancko integruje dane z eksterocepcji</li>
-</ul>
-</section>
-<section id="przykład-lfb" class="slide level3">
-<h3>Przykład (LFB)</h3>
-<ul>
-<li class="fragment">Jesteś policjantem, idziesz ciemną ulicą w kiepskiej dzielnicy</li>
-<li class="fragment">Widzisz człowieka wyjmującego komórkę z kieszeni</li>
-<li class="fragment">PP tworzy model biorąc pod uwagę: bycie policjantem, ciemność, kiepska dzielnica, ktoś sięga do kieszeni…</li>
-<li class="fragment">W tej sytuacji może stworzyć się <strong>wyraźny percept</strong> broni (<em>shooter bias</em>)</li>
-</ul>
-</section>
 <section id="działanie-action" class="slide level3">
 <h3>Działanie (action)</h3>
 </section>
@@ -352,8 +374,8 @@
 <h3>Klasyczny pogląd na działanie (D.Hume)</h3>
 <p>Aby działać, potrzebne są:</p>
 <ul>
-<li class="fragment">Przekonania na temat świata (poznanie)</li>
-<li class="fragment">Pragnienie, aby zmienić ten świat (emocje)</li>
+<li class="fragment">Przekonania na temat świata (<em>beliefs</em>)</li>
+<li class="fragment">Pragnienie, aby zmienić ten świat (<em>motivation</em>)</li>
 </ul>
 </section>
 <section id="pp-a-działanie" class="slide level3">
@@ -383,22 +405,18 @@
 <section id="przykład-a.clark" class="slide level3">
 <h3>Przykład (A.Clark)</h3>
 <ul>
-<li class="fragment"><em>Przwiduję, że</em> spotkamy się o 19:00 w kinie, więc…</li>
-<li class="fragment"><em>Przwiduję, że</em> wsiądę do autobusu o 18:30, więc…</li>
-<li class="fragment"><em>Przwiduję, że</em> poruszę moimi kończynami, żeby dojść na przystanek, itd.</li>
-</ul>
-</section>
-<section id="prymat-emocji-poznania" class="slide level3">
-<h3>Prymat emocji? Poznania?</h3>
-<ul>
-<li class="fragment">W PP emocje są skutkiem predykcji na temat przyszłego stanu, wykształconymi przez ekstero/interocepcję</li>
-<li class="fragment">Emocje = tendencja do działania (<em>action tendency</em>)</li>
-<li class="fragment">W tym sensie <strong>wszystko jest powiązane</strong> (co rozwiązuje wiele problemów!) a rozgraniczenie na emocje i poznanie traci sens</li>
+<li class="fragment"><em>Przewiduję, że</em> spotkamy się o 19:00 w kinie, więc…</li>
+<li class="fragment"><em>Przewiduję, że</em> wsiądę do autobusu o 18:30, więc…</li>
+<li class="fragment"><em>Przewiduję, że</em> poruszę moimi kończynami, żeby dojść na przystanek, itd.</li>
 </ul>
 </section>
 <section id="od-pp-do-free-energy-principle" class="slide level3">
 <h3>Od PP do free energy principle</h3>
 <p><img src="img/06_friston.jpg"></p>
+</section>
+<section id="od-pp-do-free-energy-principle-1" class="slide level3">
+<h3>Od PP do free energy principle</h3>
+<p><a href="https://www.youtube.com/watch?v=NIu_dJGyIQI&amp;t=12s" class="uri">https://www.youtube.com/watch?v=NIu_dJGyIQI&amp;t=12s</a></p>
 </section>
 <section id="problemy-z-pp" class="slide level3">
 <h3>Problemy z PP</h3>
@@ -412,8 +430,10 @@
 </section>
 <section id="jeśli-kogoś-to-zainteresowało" class="slide level3">
 <h3>Jeśli kogoś to zainteresowało…</h3>
-<p><a href="https://www.youtube.com/watch?v=lyu7v7nWzfo">Anil Seth: Your brain hallucinates your conscious reality</a></p>
-<p><a href="https://www.youtube.com/watch?v=OS3RM3F8YmE">Andy Clark: Happily Entangled: Emotions Cognition and the Predictive Mind</a></p>
+<ul>
+<li class="fragment"><p><a href="https://www.youtube.com/watch?v=lyu7v7nWzfo">Anil Seth: Your brain hallucinates your conscious reality</a></p></li>
+<li class="fragment"><p><a href="https://www.youtube.com/watch?v=OS3RM3F8YmE">Andy Clark: Happily Entangled: Emotions Cognition and the Predictive Mind</a></p></li>
+</ul>
 </section>
 <section id="książki-o-pp" class="slide level3">
 <h3>Książki o PP</h3>
@@ -422,6 +442,34 @@
 <section id="książki-o-pp-1" class="slide level3">
 <h3>Książki o PP</h3>
 <p><img src="img/06_surfing.png"></p>
+</section>
+<section id="pp-a-emocje" class="slide level3">
+<h3>PP a emocje?</h3>
+</section>
+<section id="andy-clark" class="slide level3">
+<h3>Andy Clark</h3>
+<p><img src="img/06_clark.jpg"></p>
+</section>
+<section id="lisa-feldman-barrett" class="slide level3">
+<h3>Lisa Feldman Barrett</h3>
+<p><img src="img/06_barrett.jpg"></p>
+</section>
+<section id="pp-a-emocje-1" class="slide level3">
+<h3>PP a emocje?</h3>
+<ul>
+<li class="fragment">Zacznijmy od pomysłu J-L (współcześnie Prinz, Damasio, etc.)</li>
+<li class="fragment">Interocepcja jest jednym ze źródeł informacji, które wykorzystujemy do predykcji</li>
+<li class="fragment">Interocepcja ma <strong>wysoką precyzję</strong>, więc jest ważna dla modelu generatywnego</li>
+<li class="fragment">BTW, PP elegancko integruje dane z eksterocepcji</li>
+</ul>
+</section>
+<section id="prymat-emocji-poznania" class="slide level3">
+<h3>Prymat emocji? Poznania?</h3>
+<ul>
+<li class="fragment">W PP emocje są skutkiem predykcji na temat przyszłego stanu, wykształconymi przez ekstero/interocepcję</li>
+<li class="fragment">Emocje = tendencja do działania (<em>action tendency</em>)</li>
+<li class="fragment">W tym sensie <strong>wszystko jest powiązane</strong> (co rozwiązuje wiele problemów!) a rozgraniczenie na emocje i poznanie traci sens</li>
+</ul>
 </section>
     </div>
   </div>
