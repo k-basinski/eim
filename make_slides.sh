@@ -6,6 +6,7 @@ pandoc -t revealjs -s 03_historia.md -o 03_historia.html -i
 pandoc -t revealjs -s 04_ewolucja.md -o 04_ewolucja.html -i
 pandoc -t revealjs -s 05_ocena.md -o 05_ocena.html -i
 pandoc -t revealjs -s 06_pp.md -o 06_pp.html -i --mathjax
+pandoc -t revealjs -s 07_konstrukcje.md -o 07_konstrukcje.html -i --mathjax
 pandoc -t revealjs -s 07_neuro.md -o 07_neuro.html -i
 pandoc -t revealjs -s 08_ekspresja.md -o 08_ekspresja.html -i
 pandoc -t revealjs -s 09_poznanie.md -o 09_poznanie.html -i
