@@ -26,7 +26,7 @@ Gdański Uniwersytet Medyczny
 - [05 teorie oceny](05_ocena.html)
 - [06 przetwarzanie predykcyjne](06_pp.html)
 - [07 teoria konstruowanych emocji](07_konstrukcje.html)
-- 
+
 <!--
 - [07 mózg a emocje](07_neuro.html)
 - [08 ekspresja](08_ekspresja.html)
