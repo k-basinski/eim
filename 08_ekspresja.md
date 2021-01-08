@@ -97,6 +97,63 @@ theme: white
 - Grając w kręgle, uśmiechamy się bardziej do ludzi niż do kręgli
 - Jesteśmy "bardziej smutni", gdy otaczają nas inni ludzie
 
+### Szóstka Ekmana, raz jeszcze
+
+![](img/ekman_podst.jpeg)
+
+
+### Szóstka Ekmana - jak ją badać?
+
+![](img/ekman_choice.jpeg)
+
+### Szóstka Ekmana - która twarz pasuje do historyjki?
+
+![](img/ekman_historie.jpeg)
+
+### Szóstka Ekmana
+
+![](img/03_podstawowe_nolabs.png)
+
+### Szóstka Ekmana
+
+![](img/03_podstawowe.png)
+
+
+### Liczne kłopoty
+
+- Badania EMG pokazują, że ludzie w rzeczywistych sytuacjach nie tworzą takich ekspresji (!)
+- Jeśli ekspresje są uniwersalne, dzieci powinny je mieć od maleńkości (nie mają!)
+- Co z kontekstem? Co z ciałem?
+
+### Ciało a ekspresja emocji 
+
+- Emocje "widać" nie tylko na twarzy
+- Zwierzęta sygnalizują emocje posturą
+
+
+### Point light display
+
+- Wysoka zdolność rozpoznawania emocji przy braku informacji mimicznych
+- <https://www.youtube.com/watch?v=rEVB6kW9p6k>
+
+### Wzorce reakcji fizjologicznych emocji
+
+### Ekman, Levenson, Friesen, 1983 (Science)
+
+![](img/ekman_science_1983.png)
+
+### Ekman, Levenson, Friesen, 1983 (Science)
+
+- Arbitralne decyzje odnośnie odrzucania danych
+- Poprawka na wielokrotne porównania nie zaraportowana
+- N = 16, w tym 12 aktorów (!) i 4 naukowców zajmujących się _facial expression research_ (!!!) 
+- Poważne kłopoty z replikacją
+- Brak replikacji międzykulturowej
+  
+---
+
+![](img/fingerprints_meta.png)
+
 ### Facial feedback hypothesis
 
 - Nerw trójdzielny - żucie, ruchy szczęki, **sygnały aferentne z mechanoreceptorów**
@@ -128,19 +185,18 @@ theme: white
 - U pacjentów z paraliżem twarzy, większy stopień paraliżu "mięśnia uśmiechu" (_zygomatic muscle_) wiązał się z wyższą intensywnością objawów depresji (VanSwearingen, Cohn, & Bajaj-Luthra, 1999). 
 - Efekty istotne, ale bardzo słabe
 
-### Ciało a ekspresja emocji 
 
-- Emocje "widać" nie tylko na twarzy
-- Zwierzęta sygnalizują emocje posturą
+### Badania nad osobami niewidomymi
+
+- Niewidomi od urodzenia nie mogą naśladować ekspresji emocjonalnej innych
+- Np. olimpijczycy i niewidomi paraolimpijczycy mają bardzo podobne ekspresje radości (złoto) i smutku (srebro po przegranym pojedynku)
+
+### Badania nad osobami niewidomymi
+
+![](img/08_niewidomy_smutek.png)
+![](img/08_widzacy_smutek.png)
 
 
-### Film o point light display
-
-<https://www.youtube.com/watch?v=rEVB6kW9p6k>
-
-### Point light display
-
-- Wysoka zdolność rozpoznawania emocji przy braku informacji mimicznych
 
 ### Emocje w głosie
 
@@ -168,3 +224,9 @@ theme: white
 ### Afekt a cechy akustyczne wokalizacji (Snowdon & Tele, 2013)
 
 ![](img/08_glosy.png)
+
+### Zmienność międzykulturowa
+
+- Czy ludzie wszędzie na świecie mają takie same ekspresje emocji?
+- Czy wszyscy ludzie rozumieją ekspresje innych?
+
