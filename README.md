@@ -1,5 +1,4 @@
 # Psychologia emocji i motywacji
-w
 
 
 ## Kontakt
@@ -28,6 +27,8 @@ Gdański Uniwersytet Medyczny
 - [07 teoria konstruowanych emocji](07_konstrukcje.html)
 - [08 ekspresja](08_ekspresja.html)
 - [09 emocje a procesy poznawcze](09_poznanie.html)
+- [11 stres](11_stres.html)
+- [12 regulacja i kontrola](12_regulacja.html)
 
 <!--
 - [07 mózg a emocje](07_neuro.html)
