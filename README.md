@@ -29,6 +29,7 @@ Gdański Uniwersytet Medyczny
 - [09 emocje a procesy poznawcze](09_poznanie.html)
 - [11 stres](11_stres.html)
 - [12 regulacja i kontrola](12_regulacja.html)
+- [13 lek](12_lek.html)
 
 <!--
 - [07 mózg a emocje](07_neuro.html)
