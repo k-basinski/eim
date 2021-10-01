@@ -1,232 +1,308 @@
 ---
-title: "EIM08"
-subtitle: "Ekspresja emocji"
-author: "Krzysztof Basiński"
-theme: white
+marp: true
+theme: default
+class: invert
 ---
 
-### Twarze są ważne
+# Ekspresja emocji
 
-- Pierwsza rzecz, którą widzi dziecko po urodzeniu
-- Wszędzie widzimy twarze (chmury, grzanki, plamy Rorschacha)
-- Rola w komunikacji - rozbieżność języka mówionego i pisanego 
-- Emotikony:
-	- Uwielbiam go XD
-	- Uwielbiam go :/
+---
 
-### Mechanika ekspresji mimicznej
+# Twarze są ważne
 
-- Ekspresja za pomocą skurczów 43 mięśni twarzy
-- Mięśnie twarzy przyczepione do skóry, nie do kości
-- Być może ludzkie twarze mają mniej włosów niż inne gatunki, żeby ułatwić ekspresję mimiczną
-- Oprócz ekspresji mimicznej, mięśnie twarzy odpowiadają za ruchy organów twarzy (usta, nos, oczy, uszy)
+* Pierwsza rzecz, którą widzi dziecko po urodzeniu
+* Wszędzie widzimy twarze (chmury, grzanki, plamy Rorschacha)
+* Rola w komunikacji - rozbieżność języka mówionego i pisanego 
+* Emotikony:
+	* Uwielbiam go XD
+	* Uwielbiam go :/
 
-### Mechanoreceptory na twarzy
+---
 
-- Mięśnie twarzy nie mają proprioreceptorów
-- Tylko mechanoreceptory w skórze (wykrywające ruch) sygnalizują zmiany mimiczne
-- Często ludzie "zastygają" w jakimś grymasie, nie zdając sobie z tego sprawy
+# Mechanika ekspresji mimicznej
 
-### Unerwienie twarzy
+* Ekspresja za pomocą skurczów 43 mięśni twarzy
+* Mięśnie twarzy przyczepione do skóry, nie do kości
+* Być może ludzkie twarze mają mniej włosów niż inne gatunki, żeby ułatwić ekspresję mimiczną
+* Oprócz ekspresji mimicznej, mięśnie twarzy odpowiadają za ruchy organów twarzy (usta, nos, oczy, uszy)
 
-- Mięśnie twarzy otrzymują sygnały z mózgu poprzez neurony ruchowe wychodzące z pnia mózgu
-- Siódmy nerw czaszkowy (nerw twarzowy, _facial nerve_) - czoło, brwi, usta
-- Trzeci nerw czaszkowy (nerw okoruchowy, _occulomotor nerve_) - powieki, ruchy gałki ocznej, źrenicy
-- Piąty nerw czaszkowy (nerw trójdzielny, _trigeminal nerve_) - żucie, ruchy szczęki, sygnały aferentne z mechanoreceptorów
+---
 
-### Unerwienie twarzy
+# Mechanoreceptory na twarzy
 
-- System unerwienia dla twarzy jest znacznie bardziej skomplikowany niż dla innych części ciała
-- Niektóre elementy tego systemu działają automatycznie, inne można w dużym stopniu kontrolować
-- Ruchowe jądro twarzowe (? _facial motor nucleus_) w pniu mózgu dostaje info z kory ruchowej, ale też z okolic "emocjonalnych" (np. ciała migdałowatego)
+* Mięśnie twarzy nie mają proprioreceptorów
+* Tylko mechanoreceptory w skórze (wykrywające ruch) sygnalizują zmiany mimiczne
+* Często ludzie "zastygają" w jakimś grymasie, nie zdając sobie z tego sprawy
 
-### Mięśnie twarzy
+---
 
-- <https://www.youtube.com/watch?v=zGqfKY1rjkM>
-- <https://www.youtube.com/watch?v=wQYD9ioKLqQ>
+# Unerwienie twarzy
+
+* Mięśnie twarzy otrzymują sygnały z mózgu poprzez neurony ruchowe wychodzące z pnia mózgu
+* Siódmy nerw czaszkowy (nerw twarzowy, _facial nerve_) - czoło, brwi, usta
+* Trzeci nerw czaszkowy (nerw okoruchowy, _occulomotor nerve_) - powieki, ruchy gałki ocznej, źrenicy
+* Piąty nerw czaszkowy (nerw trójdzielny, _trigeminal nerve_) - żucie, ruchy szczęki, sygnały aferentne z mechanoreceptorów
+
+---
+
+# Unerwienie twarzy
+
+* System unerwienia dla twarzy jest znacznie bardziej skomplikowany niż dla innych części ciała
+* Niektóre elementy tego systemu działają automatycznie, inne można w dużym stopniu kontrolować
+* Ruchowe jądro twarzowe (? _facial motor nucleus_) w pniu mózgu dostaje info z kory ruchowej, ale też z okolic "emocjonalnych" (np. ciała migdałowatego)
+
+---
+
+# Mięśnie twarzy
+
+* <https://www.youtube.com/watch?v=zGqfKY1rjkM>
+* <https://www.youtube.com/watch?v=wQYD9ioKLqQ>
 
 
-### Skąd wzięły się ekspresje mimiczne
+---
 
-- Czy są produktem ewolucji?
-- Czy są uniwersalne kulturowo?
-- Jak mają się ludzkie ekspresje do ekspresji innych zwierząt?
+# Skąd wzięły się ekspresje mimiczne
 
-### Ewolucja i funkcje ekspresji mimicznych
+* Czy są produktem ewolucji?
+* Czy są uniwersalne kulturowo?
+* Jak mają się ludzkie ekspresje do ekspresji innych zwierząt?
 
-- Darwin i przydatne nawyki
-- Przydatność strachu, zdziwienia i obrzydzenia
+---
 
-### Przydatne nawyki
+# Ewolucja i funkcje ekspresji mimicznych
+
+* Darwin i przydatne nawyki
+* Przydatność strachu, zdziwienia i obrzydzenia
+
+---
+
+# Przydatne nawyki
 
 ![Przydatne nawyki](img/08_susskind2008.png)
 
-### Komunikowanie emocji u innych ssaków
+---
 
-- Postura
-- Uszy
-- Wokalizacje
-- Być może u naczelnych mimika to "przerysowana" wersja ruchów potrzebnych do wokalizacji?
+# Komunikowanie emocji u innych ssaków
 
-### Wokalizacje
+* Postura
+* Uszy
+* Wokalizacje
+* Być może u naczelnych mimika to "przerysowana" wersja ruchów potrzebnych do wokalizacji?
 
-- U zwierząt wyższe dźwięki są przyjacielskie lub sygnalizują uległość
-- Niższe sygnalizują wrogość (niski dźwięk = duże zwierze)
-- Ruch twarzy przy wydawaniu wysokich dźwięków jest inny i zbliżony do ekspresji pozytywnych emocji (u ludzi i szympansów)
+---
 
-### Ekspresje mimiczne naczelnych
+# Wokalizacje
 
-- U szympansów zadowolenie objawia się uśmiechem połączonym z rytmicznymi wokalizacjami (coś jak śmiech) 
-- Aprobata społeczna aprobata społeczna wiąże się z innym uśmiechem
-- U ludzi podobnie
-- Uśmiech zadowolenia dużo trudniej "udawać" niż uśmiech aprobaty
+* U zwierząt wyższe dźwięki są przyjacielskie lub sygnalizują uległość
+* Niższe sygnalizują wrogość (niski dźwięk = duże zwierze)
+* Ruch twarzy przy wydawaniu wysokich dźwięków jest inny i zbliżony do ekspresji pozytywnych emocji (u ludzi i szympansów)
 
-### Mimika u szympansów
+---
+
+# Ekspresje mimiczne naczelnych
+
+* U szympansów zadowolenie objawia się uśmiechem połączonym z rytmicznymi wokalizacjami (coś jak śmiech) 
+* Aprobata społeczna aprobata społeczna wiąże się z innym uśmiechem
+* U ludzi podobnie
+* Uśmiech zadowolenia dużo trudniej "udawać" niż uśmiech aprobaty
+
+---
+
+# Mimika u szympansów
 
 <https://www.youtube.com/watch?v=yEF0z5IS5DA>
 
 
-### Ekspresje mimiczne a prawdziwe emocje
+---
 
-- Ekspresje mimiczne odzwierciedlają faktyczny stan emocjonalny danej osoby (_read-out view_)
-- Ekspresje komunikują motywy osoby (to, co zamierza zrobić). Mimika ma przede wszystkim funkcję komunikacyjną (_behavioral ecology view_)
+# Ekspresje mimiczne a prawdziwe emocje
 
-### Ekspresje mimiczne a prawdziwe emocje
+* Ekspresje mimiczne odzwierciedlają faktyczny stan emocjonalny danej osoby (_read-out view_)
+* Ekspresje komunikują motywy osoby (to, co zamierza zrobić). Mimika ma przede wszystkim funkcję komunikacyjną (_behavioral ecology view_)
 
-- Badania raczej wskazują na behavioral ecology
-- Grając w kręgle, uśmiechamy się bardziej do ludzi niż do kręgli
-- Jesteśmy "bardziej smutni", gdy otaczają nas inni ludzie
+---
 
-### Szóstka Ekmana, raz jeszcze
+# Ekspresje mimiczne a prawdziwe emocje
 
-![](img/ekman_podst.jpeg)
+* Badania raczej wskazują na behavioral ecology
+* Grając w kręgle, uśmiechamy się bardziej do ludzi niż do kręgli
+* Jesteśmy "bardziej smutni", gdy otaczają nas inni ludzie
 
+---
 
-### Szóstka Ekmana - jak ją badać?
+# Szóstka Ekmana, raz jeszcze
 
-![](img/ekman_choice.jpeg)
-
-### Szóstka Ekmana - która twarz pasuje do historyjki?
-
-![](img/ekman_historie.jpeg)
-
-### Szóstka Ekmana
-
-![](img/03_podstawowe_nolabs.png)
-
-### Szóstka Ekmana
-
-![](img/03_podstawowe.png)
+![h:600](img/ekman_podst.jpeg)
 
 
-### Liczne kłopoty
+---
 
-- Badania EMG pokazują, że ludzie w rzeczywistych sytuacjach nie tworzą takich ekspresji (!)
-- Jeśli ekspresje są uniwersalne, dzieci powinny je mieć od maleńkości (nie mają!)
-- Co z kontekstem? Co z ciałem?
+# Szóstka Ekmana - jak ją badać?
 
-### Ciało a ekspresja emocji 
+![h:600](img/ekman_choice.jpeg)
 
-- Emocje "widać" nie tylko na twarzy
-- Zwierzęta sygnalizują emocje posturą
+---
+
+# Szóstka Ekmana - która twarz pasuje do historyjki?
+
+![h:600](img/ekman_historie.jpeg)
+
+---
+
+# Szóstka Ekmana
+
+![h:600](img/03_podstawowe_nolabs.png)
+
+---
+
+# Szóstka Ekmana
+
+![h:600](img/03_podstawowe.png)
 
 
-### Point light display
+---
 
-- Wysoka zdolność rozpoznawania emocji przy braku informacji mimicznych
-- <https://www.youtube.com/watch?v=rEVB6kW9p6k>
+# Liczne kłopoty
 
-### Wzorce reakcji fizjologicznych emocji
+* Badania EMG pokazują, że ludzie w rzeczywistych sytuacjach nie tworzą takich ekspresji (!)
+* Jeśli ekspresje są uniwersalne, dzieci powinny je mieć od maleńkości (nie mają!)
+* Co z kontekstem? Co z ciałem?
 
-### Ekman, Levenson, Friesen, 1983 (Science)
+---
 
-![](img/ekman_science_1983.png)
+# Ciało a ekspresja emocji 
 
-### Ekman, Levenson, Friesen, 1983 (Science)
+* Emocje "widać" nie tylko na twarzy
+* Zwierzęta sygnalizują emocje posturą
 
-- Arbitralne decyzje odnośnie odrzucania danych
-- Poprawka na wielokrotne porównania nie zaraportowana
-- N = 16, w tym 12 aktorów (!) i 4 naukowców zajmujących się _facial expression research_ (!!!) 
-- Poważne kłopoty z replikacją
-- Brak replikacji międzykulturowej
+
+---
+
+# Point light display
+
+* Wysoka zdolność rozpoznawania emocji przy braku informacji mimicznych
+* <https://www.youtube.com/watch?v=rEVB6kW9p6k>
+
+---
+
+# Wzorce reakcji fizjologicznych emocji
+
+---
+
+# Ekman, Levenson, Friesen, 1983 (Science)
+
+![h:600](img/ekman_science_1983.png)
+
+---
+
+# Ekman, Levenson, Friesen, 1983 (Science)
+
+* Arbitralne decyzje odnośnie odrzucania danych
+* Poprawka na wielokrotne porównania nie zaraportowana
+* N = 16, w tym 12 aktorów (!) i 4 naukowców zajmujących się _facial expression research_ (!!!) 
+* Poważne kłopoty z replikacją
+* Brak replikacji międzykulturowej
   
 ---
 
-![](img/fingerprints_meta.png)
+![h:600](img/fingerprints_meta.png)
 
-### Facial feedback hypothesis
+---
 
-- Nerw trójdzielny - żucie, ruchy szczęki, **sygnały aferentne z mechanoreceptorów**
-- Facial feedback hypothesis (FFH) - ekspresje mimiczne wpływają na odczuwane stany emocjonalne
-- Mocna wersja - ekspresje **powodują** emocje
-- Słaba wersja - ekspresje **modulują** emocje
-- _Put on a happy face_
+# Facial feedback hypothesis
 
-### FFH - dane empiryczne
+* Nerw trójdzielny - żucie, ruchy szczęki, **sygnały aferentne z mechanoreceptorów**
+* Facial feedback hypothesis (FFH) - ekspresje mimiczne wpływają na odczuwane stany emocjonalne
+* Mocna wersja - ekspresje **powodują** emocje
+* Słaba wersja - ekspresje **modulują** emocje
+* _Put on a happy face_
 
-- W eksperymentalnej indukcji emocji, badani mają za zadanie:
+---
+
+# FFH - dane empiryczne
+
+* W eksperymentalnej indukcji emocji, badani mają za zadanie:
 	- Przesadnie reagować mimicznie (skutkuje zwiększeniem intensywności emocji)
 	- Tłumić reakcje mimiczne (skutkuje zmniejszeniem intensywności emocji)
-- Działa dla emocjonalnych filmów, szoków elektrycznych, zapachów czy wyobrażonych sytuacji
-- Możliwy efekt oczekiwania ze strony badanego
+* Działa dla emocjonalnych filmów, szoków elektrycznych, zapachów czy wyobrażonych sytuacji
+* Możliwy efekt oczekiwania ze strony badanego
 
-### FFH - Strack, Martin i Stepper, 1988
+---
 
-- Badani oglądali śmieszne kreskówki trzymając długopis:
+# FFH - Strack, Martin i Stepper, 1988
+
+* Badani oglądali śmieszne kreskówki trzymając długopis:
 	- zębami (wspomaga uśmiech)
 	- ustami (utrudnia uśmiech)
 	- w dłoni (kontrola)
-- Wyniki spójne z FFH
-- Ale uwaga! Możliwy problem z replikowalnością!
+* Wyniki spójne z FFH
+* Ale uwaga! Możliwy problem z replikowalnością!
 
-### FFH - użyteczność kliniczna
+---
 
-- Pacjenci z MDD dostający zastrzyki z botoxu czuli się lepiej (Finzi i Rosenthal, 2014)
-- U pacjentów z paraliżem twarzy, większy stopień paraliżu "mięśnia uśmiechu" (_zygomatic muscle_) wiązał się z wyższą intensywnością objawów depresji (VanSwearingen, Cohn, & Bajaj-Luthra, 1999). 
-- Efekty istotne, ale bardzo słabe
+# FFH - użyteczność kliniczna
 
-
-### Badania nad osobami niewidomymi
-
-- Niewidomi od urodzenia nie mogą naśladować ekspresji emocjonalnej innych
-- Np. olimpijczycy i niewidomi paraolimpijczycy mają bardzo podobne ekspresje radości (złoto) i smutku (srebro po przegranym pojedynku)
-
-### Badania nad osobami niewidomymi
-
-![](img/08_niewidomy_smutek.png)
-![](img/08_widzacy_smutek.png)
+* Pacjenci z MDD dostający zastrzyki z botoxu czuli się lepiej (Finzi i Rosenthal, 2014)
+* U pacjentów z paraliżem twarzy, większy stopień paraliżu "mięśnia uśmiechu" (_zygomatic muscle_) wiązał się z wyższą intensywnością objawów depresji (VanSwearingen, Cohn, & Bajaj-Luthra, 1999). 
+* Efekty istotne, ale bardzo słabe
 
 
+---
 
-### Emocje w głosie
+# Badania nad osobami niewidomymi
 
-- Zwierzęta sygnalizują emocje wokalizacją
-- Język pisany "uboższy" od mówionego - **prozodia mowy**
-- Można badać charakterystykę akustyczną głosu
+* Niewidomi od urodzenia nie mogą naśladować ekspresji emocjonalnej innych
+* Np. olimpijczycy i niewidomi paraolimpijczycy mają bardzo podobne ekspresje radości (złoto) i smutku (srebro po przegranym pojedynku)
 
-### Emocje w głosie
+---
 
-- Dobre powody by sądzić, że w głosie słychać pobudzenie
-- Specyficzne emocje trudne do wykrycia
-- Np. gniew i radość wiążą się z podobnymi zmianami wysokości i głośności głosu (dlatego, że są jednocześnie wysokim pobudzeniem?)
+# Badania nad osobami niewidomymi
 
-### Emocje w głosie
+![](img/08_niewidomy_smutek.png) ![](img/08_widzacy_smutek.png)
 
-- Być może o emocjach świadczy cały zestaw cech akustycznych (_attack, jitter_, nosowość, gardłowość)
-- Są to cechy trudno rozpoznawalne automatycznie, ale możliwe do rozpoznania przez wytrenowanych słuchaczy
-- Być może jednym ze źródeł powstania muzyki są emocjonalne wokalizacje
 
-### Emocje w głosie
 
-- Można też odtwarzać głosy "zwykłym ludziom" i oceniać konsensus w rozpoznawaniu emocji
-- Konsensus ten jest wysoki dla gniewu, strachu, radości, smutku, niezależnie od języka i kultury (Sauter et al., 2010)
+---
 
-### Afekt a cechy akustyczne wokalizacji (Snowdon & Tele, 2013)
+# Emocje w głosie
+
+* Zwierzęta sygnalizują emocje wokalizacją
+* Język pisany "uboższy" od mówionego - **prozodia mowy**
+* Można badać charakterystykę akustyczną głosu
+
+---
+
+# Emocje w głosie
+
+* Dobre powody by sądzić, że w głosie słychać pobudzenie
+* Specyficzne emocje trudne do wykrycia
+* Np. gniew i radość wiążą się z podobnymi zmianami wysokości i głośności głosu (dlatego, że są jednocześnie wysokim pobudzeniem?)
+
+---
+
+# Emocje w głosie
+
+* Być może o emocjach świadczy cały zestaw cech akustycznych (_attack, jitter_, nosowość, gardłowość)
+* Są to cechy trudno rozpoznawalne automatycznie, ale możliwe do rozpoznania przez wytrenowanych słuchaczy
+* Być może jednym ze źródeł powstania muzyki są emocjonalne wokalizacje
+
+---
+
+# Emocje w głosie
+
+* Można też odtwarzać głosy "zwykłym ludziom" i oceniać konsensus w rozpoznawaniu emocji
+* Konsensus ten jest wysoki dla gniewu, strachu, radości, smutku, niezależnie od języka i kultury (Sauter et al., 2010)
+
+---
+
+# Afekt a cechy akustyczne wokalizacji (Snowdon & Tele, 2013)
 
 ![](img/08_glosy.png)
 
-### Zmienność międzykulturowa
+---
 
-- Czy ludzie wszędzie na świecie mają takie same ekspresje emocji?
-- Czy wszyscy ludzie rozumieją ekspresje innych?
+# Zmienność międzykulturowa
+
+* Czy ludzie wszędzie na świecie mają takie same ekspresje emocji?
+* Czy wszyscy ludzie rozumieją ekspresje innych?
 

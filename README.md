@@ -15,6 +15,9 @@ Ul Tuwima 15, pok. 312
 
 Gdański Uniwersytet Medyczny
 
+## Terminy
+
+Piątek, 12:15 - 14:30, Zoom
 
 ## Wykłady
 
@@ -26,10 +29,10 @@ Gdański Uniwersytet Medyczny
 - [06 przetwarzanie predykcyjne](06_pp.html)
 - [07 teoria konstruowanych emocji](07_konstrukcje.html)
 - [08 ekspresja](08_ekspresja.html)
-- [09 emocje a procesy poznawcze](09_poznanie.html)
+<!-- - [09 emocje a procesy poznawcze](09_poznanie.html)
 - [11 stres](11_stres.html)
 - [12 regulacja i kontrola](12_regulacja.html)
-- [13 lek](13_lek.html)
+- [13 lek](13_lek.html) -->
 
 <!--
 - [07 mózg a emocje](07_neuro.html)
