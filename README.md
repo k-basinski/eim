@@ -42,6 +42,13 @@ Piątek, 12:15 - 14:30, Zoom
 
 -->
 
+## Wykłady video
+
+- [Przetwarzanie predykcyjne, cz.1](https://youtu.be/C2Fn9tATVGk)
+- [Przetwarzanie predykcyjne, cz.2](https://youtu.be/nhRjspvBLkk)
+- [Przetwarzanie predykcyjne, cz.3](https://youtu.be/SK6lVpCLFb0)
+
+
 ## Syllabus
 
 [Klik](syllabus.pdf)
