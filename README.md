@@ -29,18 +29,12 @@ Piątek, 12:15 - 14:30, Zoom
 - [06 przetwarzanie predykcyjne](06_pp.html)
 - [07 teoria konstruowanych emocji](07_konstrukcje.html)
 - [08 ekspresja](08_ekspresja.html)
-<!-- - [09 emocje a procesy poznawcze](09_poznanie.html)
-- [11 stres](11_stres.html)
-- [12 regulacja i kontrola](12_regulacja.html)
-- [13 lek](13_lek.html) -->
+- [09 emocje a procesy poznawcze](09_poznanie.html)
+- [10 regulacja i kontrola](12_regulacja.html)
+- [11 stres - R.Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM) 
+- [11 stres - moje notatki](11_stres.html)
 
-<!--
-- [07 mózg a emocje](07_neuro.html)
 
-- [11 lęk i strach](11_strach.html)
-- [12 stres - R.Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM) 
-
--->
 
 ## Wykłady video
 

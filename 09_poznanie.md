@@ -217,7 +217,7 @@ class: invert
 
 * Działa nie tylko nastrój ale i specyficzne emocje
 * Indukcja smutku zwiększa ocenę prawdopodobieństwa smutnych zdarzeń, indukcja gniewu "gniewnych" zdarzeń (DeSteno et al., 2000)
-
+<!-- 
 ---
 
 # Podejmowanie decyzji
@@ -241,4 +241,4 @@ class: invert
 
 * Szczęśliwi ludzie mają mniejszą skłonność do zachowań ryzykownych
 * Szczęście jest _status quo_, które należy zachowywać (Nygren et al., 1996)
-* Nie ma badań pokazujących, że ludzie nieszczęśliwi bardziej ryzykują
+* Nie ma badań pokazujących, że ludzie nieszczęśliwi bardziej ryzykują -->
