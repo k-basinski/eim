@@ -15,9 +15,11 @@ Ul Tuwima 15, pok. 312
 
 Gdański Uniwersytet Medyczny
 
+Konsultacje: piątki, 12:45 - 14:00.
+
 ## Terminy
 
-Piątek, 12:15 - 14:30, Zoom
+Piątek, 10:30-12:45, Tuwima 15, s.202
 
 ## Wykłady
 

@@ -19,7 +19,7 @@ class: invert
 
 # Plan zajęć
 
-* 45h wykładów (piątki, 12:15-14:30)
+* 45h wykładów (piątki, 10:30-12:45)
 * 15h ćwiczeń (Justyna Urbańska-Grosz)
 
 ---
