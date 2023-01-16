@@ -69,6 +69,7 @@ Piątek, 10:30-12:45, Tuwima 15, s.202
 #### Wykłady on-line
 
 - [Human Behavioral Biology - Robert Sapolsky (Stanford)](https://www.youtube.com/playlist?list=PLpXaCv0b7h12LpVunZ361VfCBQSwi_2e8)
+- ["Why Zebras Don't Get Ulcers: Stress and Health" by Dr. Robert Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM&t=3689s)
 - [Human Emotion - June Gruber (Yale)](https://www.youtube.com/playlist?list=PLh9mgdi4rNewieO9Dsj-OhNBC9bF4FoRp)
 - [Peter Sterling - What is health?](https://www.youtube.com/watch?v=cGZ53ecu8Jk&t=2182s)
 - [Anil Seth - Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
