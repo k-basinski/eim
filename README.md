@@ -17,6 +17,10 @@ Gdański Uniwersytet Medyczny
 
 Konsultacje: piątki, 12:45 - 14:00.
 
+## Aktualności
+
+Drugie kolokwium z EIM odbędzie się 15 stycznia w godz. 14:30-16:00 w CBM A.
+
 ## Terminy
 
 Piątek, 10:30-12:45, Tuwima 15, s.202
