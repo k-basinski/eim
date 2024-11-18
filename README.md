@@ -19,7 +19,16 @@ Konsultacje: piątki, 12:45 - 14:00.
 
 ## Aktualności
 
-Drugie kolokwium z EIM odbędzie się 15 stycznia w godz. 14:30-16:00 w CBM A.
+Pierwsze kolokwium z EiM odbędzie się w piątek, 22 listopada o 8.45 w CBM C. Nie spóźnijcie się!
+
+Rozdziały z _How Emotions Are Made_, które warto przeczytać przed kolokwium: 
+    - Introduction: The Two-Thousand-Year-Old Assumption
+    - The Search for Emotion's "Fingerprints"
+  
+O ewolucji warto posłuchać u Roberta Sapolskiego [tu](https://www.youtube.com/watch?v=Y0Oa4Lp5fLE&list=PLpXaCv0b7h12LpVunZ361VfCBQSwi_2e8&index=2) oraz [tu](https://www.youtube.com/watch?v=oKNAzl-XN4I&list=PLpXaCv0b7h12LpVunZ361VfCBQSwi_2e8&index=3). Dyskusja tego co Darwin mówił o emocjach a co nie [tu](https://www.researchgate.net/publication/229062494_Was_Darwin_Wrong_About_Emotional_Expressions).
+
+O metodach pomiaru najlepiej poczytać w podręczniku Niedenthal i Ric, rozdział 2 _Methods for the Science of Emotion_, str. 26-48.
+
 
 ## Terminy
 
