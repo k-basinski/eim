@@ -19,9 +19,7 @@ Konsultacje: piątki, 12:45 - 14:00.
 
 ## Aktualności
 
-Drugie kolokwium z EiM odbędzie się w piątek, 10 stycznia o 8.45 w CBM C. Nie spóźnijcie się!
-
-Materiał na kolokwium: tematy 05 - 07 (włącznie)
+Egzamin z EiM odbędzie się 30 stycznia 2025 w godzinach 10.00-11:30 w sali Rydygiera na terenie UCK.
 
 ## Terminy
 
