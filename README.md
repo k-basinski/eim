@@ -15,20 +15,30 @@ Ul Tuwima 15, pok. 312
 
 Gdański Uniwersytet Medyczny
 
-Konsultacje: piątki, 12:45 - 14:00.
+Konsultacje: piątki, 13:00 - 14:00 (online).
 
 ## Aktualności
 
-Egzamin z EiM odbędzie się 30 stycznia 2025 w godzinach 10.00-11:30 w sali Rydygiera na terenie UCK.
 
 ## Terminy
 
-Piątek, 10:30-12:45, CBM_C
+### Wykłady
+
+Piątek, 10:30-12:45, online
+
+### Ćwiczenia
+
+Justyna Urbańska - Grosz
+
+Poniedziałki, 8:00 - 11:00 (wg. planu zajęć)
 
 ## Wykłady
 
-- [01 wstęp](01_wstep.html)
-- [02 metody pomiaru emocji](02_metody.html)
+- 01: Wstęp [html](01_wstep.html) [pdf](pdf/01_wstep.pdf)
+- 02: Metody pomiaru emocji [html](02_metody.html) [pdf](pdf/02_metody.pdf)
+
+<!-- 
+
 - [03 teorie historyczne](03_historia.html)
 - [04 ewolucja](04_ewolucja.html)
 - [05 teorie oceny](05_ocena.html)
@@ -38,15 +48,14 @@ Piątek, 10:30-12:45, CBM_C
 - [09 emocje a procesy poznawcze](09_poznanie.html)
 - [10 regulacja i kontrola](12_regulacja.html)
 - [11 stres - R.Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM) 
-- [11 stres - moje notatki](11_stres.html)
-
-
+- [11 stres - moje notatki](11_stres.html) 
 
 ## Wykłady video
 
 - [Przetwarzanie predykcyjne, cz.1](https://youtu.be/C2Fn9tATVGk)
 - [Przetwarzanie predykcyjne, cz.2](https://youtu.be/nhRjspvBLkk)
-- [Przetwarzanie predykcyjne, cz.3](https://youtu.be/SK6lVpCLFb0)
+- [Przetwarzanie predykcyjne, cz.3](https://youtu.be/SK6lVpCLFb0) 
+-->
 
 
 ## Syllabus
@@ -55,22 +64,22 @@ Piątek, 10:30-12:45, CBM_C
 
 ## Literatura
 
-#### Książki
+### Książki
 
 - Lisa Feldman Barrett (2017). How Emotions Are Made: The Secret Life of the Brain. Pan Macmillan. ALBO Lisa Feldman Barrett (2020). Jak powstają emocje? Sekretne życie mózgu. Wydawnictwo CeDeWu.
 - Niedenthal, P. i Ric, F.  (2017). Psychology of Emotion. New York: Routledge.
 - Maruszewski, T., Doliński, D., Łukaszewski, W., i Marszał-Wiśniewska, M. (2008). Emocje i motywacja. W: J. Strelau & D. Doliński (Red.), Psychologia akademicka. Tom 1 (str. 511–650). Gdańskie Wydawnictwo Psychologiczne.
 
-#### Dodatkowo
+### Dodatkowo
 
 - Sapolsky, R. M. (2004/2020). Dlaczego zebry nie mają wrzodów żołądka? Psychofizjologia stresu. Wydawnictwo Naukowe PWN.
 - Lewis M., Haviland-Jones J.M. Psychologia emocji, GWP, Gdańsk, 2005.
 - Łosiak W. Psychologia emocji, Warszawa, 2007.
 
 
-## Polecam serdecznie
+## Materiały dodatkowe
 
-#### Wykłady on-line
+### Wykłady on-line
 
 - [Human Behavioral Biology - Robert Sapolsky (Stanford)](https://www.youtube.com/playlist?list=PLpXaCv0b7h12LpVunZ361VfCBQSwi_2e8)
 - ["Why Zebras Don't Get Ulcers: Stress and Health" by Dr. Robert Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM&t=3689s)
@@ -80,10 +89,10 @@ Piątek, 10:30-12:45, CBM_C
 - [Andy Clark - Happily Entangled: Emotions Cognition and the Predictive Mind](https://www.youtube.com/watch?v=OS3RM3F8YmE)
 - [The Anxious Brain: The Neuroscience of Phobias - Joseph LeDoux](https://www.youtube.com/watch?v=Ht6g0ky-8EY)
 
-#### Artykuły
+### Artykuły
 
 - [Teorie oceny - Siemer, Mauss & Gross, 2007](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.688.3225&rep=rep1&type=pdf)
 
-#### Ciekawostki
+### Ciekawostki
 
 - [Dead Salmon Study, Bennett et al. 2009](http://prefrontal.org/files/posters/Bennett-Salmon-2009.jpg)
