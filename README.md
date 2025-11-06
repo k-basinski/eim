@@ -36,12 +36,12 @@ Poniedziałki, 8:00 - 11:00 (wg. planu zajęć)
 
 - 01: Wstęp [html](01_wstep.html) [pdf](pdf/01_wstep.pdf)
 - 02: Metody pomiaru emocji [html](02_metody.html) [pdf](pdf/02_metody.pdf)
-
-<!-- 
-
 - [03 teorie historyczne](03_historia.html)
 - [04 ewolucja](04_ewolucja.html)
 - [05 teorie oceny](05_ocena.html)
+
+<!-- 
+
 - [06 przetwarzanie predykcyjne](06_pp.html)
 - [07 teoria konstruowanych emocji](07_konstrukcje.html)
 - [08 ekspresja](08_ekspresja.html)
