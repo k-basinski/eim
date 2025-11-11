@@ -206,3 +206,32 @@ class: invert
 * Czy na prawdę jest coś takiego jak gniew, czy też jest wiele różnych doświadczeń, które *nazywamy* gniewem?
 * Istotne różnice kulturowe w opisie emocji (np. w *Anuak*, jedenym z języków w Sudanie, smutek opisuje się poprzez *ciężką wątrobę*. Na Mikronezji dumę określa się "wysokim gardłem")
 
+
+---
+
+
+# Rywalizujące ze sobą teorie
+
+* Uwaga! To, że klasyczne ewolucyjne teorie emocji mają swoje problemy nie oznacza, że ewolucjonizm jako taki jest fe i do śmieci!
+* Być może nie do końca dobrze rozumiemy całą złożoność procesów ewolucji? Wewnątrz biologii ewolucyjnej spory o mechanizmy zjawisk toczą się nieustannie od 150 lat! To dobrze, bo to znaczy, że paradygmat ciągle się nie wyczerpał
+* Być może jest inny sposób patrzenia na emocje, również wywodzący się z myślenia ewolucyjnego, który lepiej pasuje do danych? (Uwaga, spoiler - moim zdaniem jest)
+
+---
+
+# Błędy często popełniane przez studentów
+
+* Przekonanie, że teorie to jasno sformułowane zestawy przekonań przypisane do nazwisk pojedyńczych badaczy (np. teoria J-L!)
+* Przekonanie, że teorie ze sobą rywalizują o nagrodę "platynowego Strelaua" (tylko jedna może być ta jedyna, najwspanialsza itd.)
+* Tendencja do *wybierania sobie* subiektywnie "najfajniejszych" teorii (_"ta teoria odpowiada mi najbardziej"_)
+* Tendencja do pluralistycznych wyjaśnień w psychologii (_"uważam, że ten problem da się rozwiązać jedynie poprzez integrację podejścia poznawczego z podejściem psychoanalitycznym zachowując zasady psychologii humanistycznej..."_)
+* Uwaga! to ostatnie dotyczy faktycznych **wyjaśnień** a nie paradygmatów. Spokojnie można badać to samo zjawisko za pomocą różnych paradygmatów. Problem jest wtedy, gdy mamy różne teorie dające różne przewidywania i jesteśmy tym faktem zachwyceni.
+
+---
+
+# Jak sobie radzić?
+
+* Patrz na **wyniki badań empirycznych**
+* **Krytycznie** analizuj teksty naukowe
+* Falsyfikacjonizm to Twój przyjaciel
+* Nie wierz nikomu na słowo (chyba że mamie i tacie!)
+* Nie wierz ludziom mającym osobisty interes (zwłaszcza finansowy) w powodzeniu jakiejś teorii 
