@@ -6,8 +6,15 @@ inputs = [
     '02_metody',
     '03_historia',
     '04_ewolucja',
-    '05_teorie_ewolucyjne',
-    '06_ocena'
+    '05_ekspresja',
+    '06_teorie_ewolucyjne',
+    '07_ocena',
+    '08_allostaza',
+    '09_pp',
+    '10_konstrukcje',
+    '11_poznanie',
+    '12_stres',
+    '13_regulacja'
 ]
 
 

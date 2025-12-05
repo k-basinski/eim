@@ -39,19 +39,19 @@ Poniedziałki, 8:00 - 11:00 (wg. planu zajęć)
 - 02: Metody pomiaru emocji [html](02_metody.html) [pdf](pdf/02_metody.pdf)
 - 03: teorie historyczne [html](03_historia.html) [pdf](pdf/03_historia.pdf)
 - 04: ewolucja [html](04_ewolucja.html) [pdf](pdf/04_ewolucja.pdf)
-- 05: teorie ewolucyjne [html](05_teorie_ewolucyjne.html) [pdf](pdf/05_teorie_ewolucyjne.pdf)
-- 06: teorie oceny [html](06_ocena.html) [pdf](pdf/06_ocena.pdf)
+- 05: ekspresja mimiczna [html](05_ekspresja.html) [pdf](pdf/05_ekspresja.pdf)
+- 06: teorie ewolucyjne [html](06_teorie_ewolucyjne.html) [pdf](pdf/06_teorie_ewolucyjne.pdf)
+- 07: teorie oceny [html](07_ocena.html) [pdf](pdf/07_ocena.pdf)
+- 08: 3E cognition i allostaza [html](08_allostaza.html) [pdf](pdf/08_allostaza.pdf)
+- 09: Przetwarzanie predykcyjne [html](09_pp.html) [pdf](pdf/09_pp.pdf)
+- 10: Teoria konstruowanych emocji [html](10_konstrukcje.html) [pdf](pdf/10_konstrukcje.pdf)
+- 11: Emocje a procesy poznawcze [html](11_poznanie.html) [pdf](pdf/11_poznanie.pdf)
+- 12: Stres [html](12_stres.html) [pdf](pdf/12_stres.pdf)
+- 13: Regulacja emocjonalna [html](13_regulacja.html) [pdf](pdf/13_regulacja.pdf)
+
 
 <!-- 
 
-- [05 teorie oceny](05_ocena.html)
-- [06 przetwarzanie predykcyjne](06_pp.html)
-- [07 teoria konstruowanych emocji](07_konstrukcje.html)
-- [08 ekspresja](08_ekspresja.html)
-- [09 emocje a procesy poznawcze](09_poznanie.html)
-- [10 regulacja i kontrola](12_regulacja.html)
-- [11 stres - R.Sapolsky](https://www.youtube.com/watch?v=D9H9qTdserM) 
-- [11 stres - moje notatki](11_stres.html) 
 
 ## Wykłady video
 
