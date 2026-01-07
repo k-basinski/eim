@@ -19,7 +19,7 @@ Konsultacje: piątki, 13:00 - 14:00 (online).
 
 ## Aktualności
 
-Kolokwium 1 z EiM odbędzie się 14 listopada o godzinie 10:30 w sali CBM C. Obowiązujący materiał: wykłady 01 - 04 włącznie.
+Kolokwium 2 z EiM odbędzie się 16 stycznia o godzinie 8:45 w sali CMN_1/D/01.1. Obowiązujący materiał: wykłady 05 - 10 włącznie. Po kolokwium wykład w tej samej sali.
 
 ## Terminy
 
