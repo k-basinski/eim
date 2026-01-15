@@ -19,6 +19,8 @@ Konsultacje: piątki, 13:00 - 14:00 (online).
 
 ## Aktualności
 
+Egzamin z EiM odbędzie się 4 lutego o godzinie 12.15 w sali CBM C. Obowiązuje materiał z całego roku, ze szczególnym uwzględnieniem tematów 11-13.
+
 Kolokwium 2 z EiM odbędzie się 16 stycznia o godzinie 8:45 w sali CMN_1/D/01.1. Obowiązujący materiał: wykłady 05 - 10 włącznie. Po kolokwium wykład w tej samej sali.
 
 ## Terminy
