@@ -59,6 +59,9 @@ Poniedziałki, 9:30 - 12:30, sale wg. planu zajęć
 - 12: Stres [html](12_stres.html) [pdf](pdf/12_stres.pdf)
 - 13: Regulacja emocjonalna [html](13_regulacja.html) [pdf](pdf/13_regulacja.pdf)
 
+## Ćwiczenia
+
+- 01: Identyfikacja emocji [html](labo_1.html)
 
 <!-- 
 
