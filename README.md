@@ -36,11 +36,13 @@ Kolokwium 2 z EiM odbędzie się 16 stycznia o godzinie 8:45 w sali CMN_1/D/01.1
 ### Wykłady
 
 Krzysztof Basiński
+
 Piątki, 10:30-12:45, sale wg. planu zajęć.
 
 ### Ćwiczenia
 
 Aniela Brzezińska
+
 Poniedziałki, 9:30 - 12:30, sale wg. planu zajęć
 
 ## Wykłady
