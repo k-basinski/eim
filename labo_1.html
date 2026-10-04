@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>labo_1</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/reveal.css">
+  <style>
+    .reveal .sourceCode {  /* see #7635 */
+      overflow: visible;
+    }
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/theme/default.css" id="theme">
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section id="informacje-organizacyjne" class="slide level1">
+<h1>Informacje organizacyjne</h1>
+</section>
+<section id="kontakt" class="slide level1">
+<h1>Kontakt</h1>
+<ul>
+<li class="fragment">Aniela Brzezińska</li>
+<li class="fragment"><a href="mailto:anielabrzezinska@gumed.edu.pl"
+class="email">anielabrzezinska@gumed.edu.pl</a></li>
+</ul>
+</section>
+<section id="plan-zajęć" class="slide level1">
+<h1>Plan zajęć</h1>
+<ul>
+<li class="fragment">15h ćwiczeń</li>
+<li class="fragment">Poniedziałki 9:30-12:30</li>
+</ul>
+</section>
+<section id="nieobecności" class="slide level1">
+<h1>Nieobecności</h1>
+<ul>
+<li class="fragment">Obecność na wszystkich laboratoriach jest
+obowiązkowa</li>
+<li class="fragment">Starajcie się chodzić na zajęcia swojej przypisanej
+grupy</li>
+<li class="fragment">…ale w ramach odrobienia nieobecności można przyjść
+na zajęcia innej grupy (po wcześniejszym ustaleniu z prowadzącym)</li>
+</ul>
+</section>
+<section id="zaliczenie-laboratoriów" class="slide level1">
+<h1>Zaliczenie laboratoriów</h1>
+<ul>
+<li class="fragment">Proste zaliczenie w formie pisemnej (na ostatnich
+zajęciach)</li>
+<li class="fragment">Do zdobycia 10 punktów</li>
+</ul>
+</section>
+<section id="kilka-uwag" class="slide level1">
+<h1>Kilka uwag</h1>
+<ul>
+<li class="fragment">Proszę, żeby na zajęciach nie używać elektroniki -
+wszystkie materiały będziecie mieli udostępnione</li>
+<li class="fragment">Będziemy eksplorować swój świat wewnętrzny, w
+związku z czym
+<ul>
+<li class="fragment">gorąco zachęcam do bycia tu i teraz i zaangażowania
+się w ćwiczenia - dzięki temu będziecie w stanie głębiej zrozumieć
+koncepty prezentowane na zajęciach</li>
+<li class="fragment">zabronione jest wszelkiego rodzaju krytykowanie
+oraz komentowanie emocji, którymi dzielą się inni studenci</li>
+<li class="fragment">bądźmy dla siebie bezpieczni i wyrozumiali</li>
+<li class="fragment">na tym przedmiocie zajmujemy się obserwacją, NIE
+oceną ani diagnozą</li>
+</ul></li>
+</ul>
+</section>
+<section id="zadanie-1" class="slide level1">
+<h1>Zadanie 1</h1>
+<ul>
+<li class="fragment">Pomyślcie przez chwilę o sytuacji z ostatnich kilku
+dni, która wywołała u was wyraźną reakcję emocjonalną</li>
+<li class="fragment">Nie musi być bardzo osobista</li>
+<li class="fragment">Nie musicie jej nikomu opowiadać</li>
+<li class="fragment">Nie wybierajcie sytuacji bardzo ciężkich i/lub
+trudnych - wybierzcie coś, z czym będzie wam komfortowo pracować podczas
+tych warsztatów</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<ul>
+<li class="fragment">Jaką emocję wtedy czuliście?</li>
+<li class="fragment">Zapiszcie to na kartce</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<ul>
+<li class="fragment">Skąd to wiecie?</li>
+<li class="fragment">Zapiszcie odpowiedź na kartce</li>
+</ul>
+</section>
+<section id="co-pomaga-nam-odczytać-odczuwane-przez-nas-emocje"
+class="slide level1">
+<h1>Co pomaga nam “odczytać” odczuwane przez nas emocje?</h1>
+<ul>
+<li class="fragment">Sytuacja - co się wydarzyło?</li>
+<li class="fragment">Ocena - co to dla mnie oznacza?</li>
+<li class="fragment">Fizjologia - co dzieje się w ciele?</li>
+<li class="fragment">Myśli - jakie pojawiają się myśli?</li>
+<li class="fragment">Doświadczenie - co w przeszłości czuł_m w podobnych
+sytuacjach?</li>
+<li class="fragment">Tendencja do działania - co mam ochotę teraz
+zrobić?</li>
+<li class="fragment">Wiedza na temat emocji - co statystycznie człowiek
+może czuć w tej sytuacji?</li>
+</ul>
+</section>
+<section id="zadanie-2" class="slide level1">
+<h1>Zadanie 2</h1>
+<ul>
+<li class="fragment">Podzielcie się dowolnie na pary / trójki i
+usiądźcie obok siebie</li>
+<li class="fragment">Każdy osobno przypomina sobie sytuację z początku
+zajęć</li>
+<li class="fragment">Zamknijcie oczy i spróbujcie myślami “przenieść
+się” do tamtej chwili - wyobrazić sobie, że ta sytuacja dzieje się
+teraz</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<ul>
+<li class="fragment">Przejdźcie uwagą przez głowę, szczękę, szyję,
+klatkę piersiową, brzuch, ręce, nogi</li>
+<li class="fragment">Spróbujcie ocenić, czy czujecie coś w ciele:
+<ul>
+<li class="fragment">zmianę temperatury</li>
+<li class="fragment">ucisk lub rozluźnienie</li>
+<li class="fragment">ból lub dyskomfort</li>
+</ul></li>
+<li class="fragment">Czy oddech się zmienił?</li>
+<li class="fragment">Czy mam ochotę coś zrobić, jakoś się ruszyć?</li>
+<li class="fragment">Czy serce bije inaczej?</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<ul>
+<li class="fragment">Otwórzcie oczy</li>
+<li class="fragment">Zapiszcie na kartce, co zauważyliście w ciele, bez
+używania nazw emocji</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<ul>
+<li class="fragment"><h2
+id="przedyskutujcie-doświadczenie-w-swoich-grupach-zastanawiając-się-jakie-emocje-mogą-być-zgodne-z-profilem-opisanym-przez-was-na-kartce">Przedyskutujcie
+doświadczenie w swoich grupach, zastanawiając się, jakie emocje mogą być
+zgodne z profilem opisanym przez was na kartce</h2></li>
+</ul>
+<p>Czy jedna konfiguracja sygnałów fizjologicznych zawsze wskazuje na
+konkretny stan emocjonalny?</p>
+</section>
+<section id="pułapka" class="slide level1">
+<h1>Pułapka</h1>
+<p>“Jeśli czuję w ciele X, to znaczy że odczuwam emocję Y.”</p>
+</section>
+<section class="slide level1">
+
+<ul>
+<li class="fragment">Czy łatwo było znaleźć sygnały? Co przeszkadzało w
+ich odczuwaniu?</li>
+<li class="fragment">Czy wszyscy zauważyli coś w ciele? Czy ktoś
+doświadczył trudności w odczuwaniu sygnałów z ciała?</li>
+<li class="fragment">Czy sygnały były jednoznaczne?</li>
+<li class="fragment">Czy sygnały pozwoliły Wam nazwać emocję, czy tylko
+zauważyć, że “coś się dzieje”?</li>
+</ul>
+</section>
+<section id="interocepcja-świadomość-interoceptywna"
+class="slide level1">
+<h1>Interocepcja, świadomość interoceptywna</h1>
+<ul>
+<li class="fragment">Umiejętność odczytywania i odczuwania sygnałów
+wysyłanych z wewnątrz ciała - głód, temperatura, ból, tętno, oddech
+itp.</li>
+</ul>
+</section>
+<section id="przerwa" class="slide level1">
+<h1>Przerwa</h1>
+</section>
+<section id="zadanie-3" class="slide level1">
+<h1>Zadanie 3</h1>
+<ul>
+<li class="fragment">Wracamy myślami do tej samej sytuacji</li>
+<li class="fragment">Wychodzimy z ciała, wchodzimy do myśli</li>
+</ul>
+</section>
+<section id="zastanów-się" class="slide level1">
+<h1>Zastanów się</h1>
+<ul>
+<li class="fragment">Co dokładnie się wydarzyło? Suche fakty</li>
+<li class="fragment">Co pomyślał_m? Jakie pojawiły się myśli?</li>
+<li class="fragment">Co ta sytuacja dla mnie oznaczała? Jakie nadał_m
+jej znaczenie?</li>
+<li class="fragment">Czego się spodziewał_m?</li>
+<li class="fragment">Co w tej sytuacji było dla mnie zagrożone? Co w tej
+sytuacji było dla mnie ważne?</li>
+</ul>
+</section>
+<section class="slide level1">
+
+<ul>
+<li class="fragment">Jaką emocję najlepiej opisuje ten zestaw
+odpowiedzi?</li>
+</ul>
+</section>
+<section id="appraisal" class="slide level1">
+<h1>Appraisal</h1>
+<ul>
+<li class="fragment">Student otrzymuje komunikat: “prowadzący chce ze
+mną porozmawiać”</li>
+<li class="fragment">Student A -&gt; “pewnie coś zrobiłem źle” -&gt;
+lęk</li>
+<li class="fragment">Student B -&gt; “może chce mnie pochwalić” -&gt;
+ciekawość/radość</li>
+<li class="fragment">Student C -&gt; “ugh, śpieszę się na tramwaj!”
+-&gt; irytacja/zniecierpliwienie</li>
+</ul>
+<p>UWAGA: nie oceniamy, który ze studentów ma “właściwe/zdrowe/dobre”
+myśli. Na tym przedmiocie zajmujemy się obserwacją.</p>
+</section>
+<section id="zadanie-4" class="slide level1">
+<h1>Zadanie 4</h1>
+<p>Gdybym nie musiał_ się kontrolować, co zrobił_bym w tej sytuacji? Co
+mam ochotę zrobić?</p>
+</section>
+<section class="slide level1">
+
+<p>Przykłady: * rozpłakać się * przytulić kogoś * krzyczeć * zaatakować
+* śmiać się * zatrzymać się * zbliżyć się * uciekać</p>
+</section>
+<section id="przykładowe-interpretacje" class="slide level1">
+<h1>Przykładowe interpretacje</h1>
+<table>
+<thead>
+<tr>
+<th>Mam ochotę…</th>
+<th>Możliwa emocja</th>
+<th>Co jeszcze mogłoby to oznaczać?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>uciec</td>
+<td>lęk</td>
+<td>wstyd, przeciążenie</td>
+</tr>
+<tr>
+<td>zaatakować</td>
+<td>złość</td>
+<td>frustracja, zagrożenie</td>
+</tr>
+<tr>
+<td>wycofać się</td>
+<td>smutek</td>
+<td>wstyd, lęk</td>
+</tr>
+<tr>
+<td>podejść</td>
+<td>zainteresowanie</td>
+<td>radość, ciekawość</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="pytanie" class="slide level1">
+<h1>Pytanie</h1>
+<p>Czy tendencja do działania jest tym samym co zachowanie?</p>
+<p><img data-src="img/labo_drama.png" /></p>
+</section>
+<section id="przerwa-1" class="slide level1">
+<h1>Przerwa</h1>
+</section>
+<section id="zadanie-5" class="slide level1">
+<h1>Zadanie 5</h1>
+<p>Które z ćwiczeń dało wam najwięcej informacji o emocjach?
+Przedyskutujcie w grupie, każdy może mieć inne odczucia!</p>
+</section>
+<section class="slide level1">
+
+<ul>
+<li class="fragment">Czy któraś z dzisiejszych technik była waszym
+zdaniem “lepsza” niż inna?</li>
+<li class="fragment">Czy uważacie, że należałoby używać do identyfikacji
+emocji jednej techniki, czy wszystkich razem?</li>
+<li class="fragment">A może uważacie jeszcze coś innego?</li>
+</ul>
+</section>
+<section id="granularność-emocjonalna-lisa-feldman-barrett"
+class="slide level1">
+<h1>Granularność emocjonalna (Lisa Feldman Barrett)</h1>
+<p><img data-src="img/labo_feelings_wheel.png" /></p>
+<p><small>Colored Feeling Wheel by Feeling Wheel is licensed under a
+Creative Commons Attribution-ShareAlike 4.0 International License.</p>
+</section>
+<section id="granularność-emocjonalna---dlaczego-to-ważne"
+class="slide level1">
+<h1>Granularność emocjonalna - dlaczego to ważne?</h1>
+<ul>
+<li class="fragment">Im precyzyjniej zidentyfikujemy odczuwaną emocję,
+tym precyzyjniejsze możemy zastosować techniki regulacji</li>
+<li class="fragment">Rozumienie tego, co dzieje się w naszym świecie
+wewnętrznym zmniejsza ryzyko angażowania się w niezdrowe sposoby
+regulacji emocji (alkohol, używki, kompulsywne jedzenie)</li>
+</ul>
+<p><small>Erbas, Y., Gendron, M., &amp; Fugate, J. M. B. (2022).
+Editorial: The role of emotional granularity in emotional regulation,
+mental disorders, and well-being. Frontiers in psychology, 13, 1080713.
+https://doi.org/10.3389/fpsyg.2022.1080713</small></p>
+</section>
+<section id="zadanie-6" class="slide level1">
+<h1>Zadanie 6</h1>
+<ul>
+<li class="fragment">Do emocji napisanej na samym początku zajęć na
+kartce, znajdź trzy bardziej precyzyjne alternatywy</li>
+<li class="fragment">Co zmienia się, kiedy zamiast “czuję się źle”
+potrafię powiedzieć np. “jestem zawiedziona i rozczarowana”?</li>
+</ul>
+</section>
+<section id="zadanie-7---c.-d.-na-wykładzie" class="slide level1">
+<h1>Zadanie 7 - c. d. na wykładzie</h1>
+<ul>
+<li class="fragment">Czy można czuć wszystkie te emocje
+jednocześnie?</li>
+<li class="fragment">Czy emocje odczuwane jednocześnie muszą wszystkie
+mieć ten sam charakter?</li>
+</ul>
+</section>
+<section id="na-zakończenie" class="slide level1">
+<h1>Na zakończenie</h1>
+<p>Co sprawia, że mamy czasem wrażenie, że powinniśmy czuć tylko jedną
+emocję?</p>
+</section>
+<section class="slide level1">
+
+</section>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@^5/dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="https://unpkg.com/reveal.js@^5/dist/plugin/notes.js"></script>
+  <script src="https://unpkg.com/reveal.js@^5/dist/plugin/search.js"></script>
+  <script src="https://unpkg.com/reveal.js@^5/dist/plugin/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+        // Display controls in the bottom right corner
+        controls: true,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: true,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'bottom-right',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: false,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: false,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: true,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'default',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: true,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'slide',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'fade',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>
