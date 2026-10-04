@@ -222,7 +222,7 @@ Które z ćwiczeń dało wam najwięcej informacji o emocjach? Przedyskutujcie w
 
 ![](img/labo_feelings_wheel.png)
 
-<small>Colored Feeling Wheel by Feeling Wheel is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+<small>Colored Feeling Wheel by Feeling Wheel is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</small>
 
 ---
 
