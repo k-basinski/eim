@@ -222,7 +222,7 @@ Które z ćwiczeń dało wam najwięcej informacji o emocjach? Przedyskutujcie w
 
 ![](img/labo_feelings_wheel.png)
 
-<small>Colored Feeling Wheel by Feeling Wheel is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</small>
+<sup>Colored Feeling Wheel by Feeling Wheel is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</sup>
 
 ---
 
@@ -231,7 +231,7 @@ Które z ćwiczeń dało wam najwięcej informacji o emocjach? Przedyskutujcie w
 * Im precyzyjniej zidentyfikujemy odczuwaną emocję, tym precyzyjniejsze możemy zastosować techniki regulacji
 * Rozumienie tego, co dzieje się w naszym świecie wewnętrznym zmniejsza ryzyko angażowania się w niezdrowe sposoby regulacji emocji (alkohol, używki, kompulsywne jedzenie) 
 
-<small>Erbas, Y., Gendron, M., & Fugate, J. M. B. (2022). Editorial: The role of emotional granularity in emotional regulation, mental disorders, and well-being. Frontiers in psychology, 13, 1080713. https://doi.org/10.3389/fpsyg.2022.1080713</small>
+<sup>Erbas, Y., Gendron, M., & Fugate, J. M. B. (2022). Editorial: The role of emotional granularity in emotional regulation, mental disorders, and well-being. Frontiers in psychology, 13, 1080713. https://doi.org/10.3389/fpsyg.2022.1080713</sup>
 
 ---
 
