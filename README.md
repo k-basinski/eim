@@ -66,6 +66,7 @@ Poniedziałki, 9:30 - 12:30, sale wg. planu zajęć
 ## Ćwiczenia
 
 - 01: Identyfikacja emocji [html](labo_1.html)
+- 02: Regulacja emocji [pdf](pdf/regulacja_emocji.pdf)
 
 <!-- 
 
