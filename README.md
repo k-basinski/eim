@@ -3,9 +3,18 @@
 
 ## Kontakt
 
-Krzysztof Basiński
+### Krzysztof Basiński
 
 krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
+
+Konsultacje: piątki, 13:00 - 14:00 (online).
+
+### Aniela Brzezińska
+
+anielabrzezinska (at) gumed (dot) edu (dot) pl 
+
+Konsultacje: poniedziałki, 13:00 - 14:00 (po wcześniejszym umówieniu mailowym)
+
 
 Zakład Badań nad Jakością Życia
 
@@ -15,7 +24,6 @@ Ul Tuwima 18, pok. A2.16
 
 Gdański Uniwersytet Medyczny
 
-Konsultacje: piątki, 13:00 - 14:00 (online).
 
 ## Aktualności
 
@@ -26,23 +34,25 @@ Kolokwium 1 z EiM odbędzie się 19 listopada o godzinie 8:30 w sali UCS_W.
 
 ### Wykłady
 
-Piątek, 10:30-12:45, online
+Krzysztof Basiński
+
+Piątki, 10:30-12:45, sale wg. planu zajęć.
 
 ### Ćwiczenia
 
-Justyna Urbańska - Grosz
+Aniela Brzezińska
 
-Poniedziałki, 8:00 - 11:00 (wg. planu zajęć)
+Poniedziałki, 9:30 - 12:30, sale wg. planu zajęć
 
 ## Wykłady
 
 - 01: Wstęp [html](01_wstep.html) [pdf](pdf/01_wstep.pdf)
 - 02: Metody pomiaru emocji [html](02_metody.html) [pdf](pdf/02_metody.pdf)
-- 03: teorie historyczne [html](03_historia.html) [pdf](pdf/03_historia.pdf)
-- 04: ewolucja [html](04_ewolucja.html) [pdf](pdf/04_ewolucja.pdf)
-- 05: ekspresja mimiczna [html](05_ekspresja.html) [pdf](pdf/05_ekspresja.pdf)
-- 06: teorie ewolucyjne [html](06_teorie_ewolucyjne.html) [pdf](pdf/06_teorie_ewolucyjne.pdf)
-- 07: teorie oceny [html](07_ocena.html) [pdf](pdf/07_ocena.pdf)
+- 03: Teorie historyczne [html](03_historia.html) [pdf](pdf/03_historia.pdf)
+- 04: Ewolucja [html](04_ewolucja.html) [pdf](pdf/04_ewolucja.pdf)
+- 05: Ekspresja mimiczna [html](05_ekspresja.html) [pdf](pdf/05_ekspresja.pdf)
+- 06: Teorie ewolucyjne [html](06_teorie_ewolucyjne.html) [pdf](pdf/06_teorie_ewolucyjne.pdf)
+- 07: Teorie oceny [html](07_ocena.html) [pdf](pdf/07_ocena.pdf)
 - 08: 3E cognition i allostaza [html](08_allostaza.html) [pdf](pdf/08_allostaza.pdf)
 - 09: Przetwarzanie predykcyjne [html](09_pp.html) [pdf](pdf/09_pp.pdf)
 - 10: Teoria konstruowanych emocji [html](10_konstrukcje.html) [pdf](pdf/10_konstrukcje.pdf)
@@ -50,6 +60,12 @@ Poniedziałki, 8:00 - 11:00 (wg. planu zajęć)
 - 12: Stres [html](12_stres.html) [pdf](pdf/12_stres.pdf)
 - 13: Regulacja emocjonalna [html](13_regulacja.html) [pdf](pdf/13_regulacja.pdf)
 
+- Wykład dodatkowy - tego nie będzie na egzaminie! [html](policjant_umyslu.html)
+
+## Ćwiczenia
+
+- 01: Identyfikacja emocji [html](labo_1.html)
+- 02: Regulacja emocji [pdf](pdf/regulacja_emocji.pdf)
 
 <!-- 
 

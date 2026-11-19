@@ -13,3 +13,5 @@ pandoc -t revealjs -s 09_poznanie.md -o 09_poznanie.html -i
 pandoc -t revealjs -s 11_stres.md -o 11_stres.html -i
 pandoc -t revealjs -s 12_regulacja.md -o 12_regulacja.html -i
 pandoc -t revealjs -s 13_lek.md -o 13_lek.html -i
+pandoc -t revealjs -s labo_1.md -o labo_1.html -i
+

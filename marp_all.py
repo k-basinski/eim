@@ -14,7 +14,8 @@ inputs = [
     '10_konstrukcje',
     '11_poznanie',
     '12_stres',
-    '13_regulacja'
+    '13_regulacja',
+    'labo_1'
 ]
 
 
